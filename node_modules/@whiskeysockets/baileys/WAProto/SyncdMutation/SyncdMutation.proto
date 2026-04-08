@@ -1,0 +1,13 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message SyncdMutation {
+    optional SyncdMutation.SyncdOperation operation = 1;
+    optional uint32 record = 2;
+    enum SyncdOperation {
+        SET = 0;
+        REMOVE = 1;
+    }
+}

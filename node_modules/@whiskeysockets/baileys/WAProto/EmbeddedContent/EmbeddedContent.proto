@@ -1,0 +1,9 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message EmbeddedContent {
+    optional uint32 embeddedMessage = 1;
+    optional uint32 embeddedMusic = 2;
+}

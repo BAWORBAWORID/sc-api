@@ -1,0 +1,11 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message Citation {
+    optional string title = 1;
+    optional string subtitle = 2;
+    optional string cmsId = 3;
+    optional string imageUrl = 4;
+}

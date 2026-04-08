@@ -1,0 +1,88 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message ClientPayload {
+    optional uint64 username = 1;
+    optional bool passive = 3;
+    optional ClientPayload.IUserAgent userAgent = 5;
+    optional ClientPayload.IWebInfo webInfo = 6;
+    optional string pushName = 7;
+    optional int32 sessionId = 9;
+    optional bool shortConnect = 10;
+    optional ClientPayload.ConnectType connectType = 12;
+    optional ClientPayload.ConnectReason connectReason = 13;
+    repeated int32 shards = 14;
+    optional ClientPayload.IDNSSource dnsSource = 15;
+    optional uint32 connectAttemptCount = 16;
+    optional uint32 device = 18;
+    optional ClientPayload.IDevicePairingRegistrationData devicePairingData = 19;
+    optional ClientPayload.Product product = 20;
+    optional bytes fbCat = 21;
+    optional bytes fbUserAgent = 22;
+    optional bool oc = 23;
+    optional int32 lc = 24;
+    optional ClientPayload.IOSAppExtension iosAppExtension = 30;
+    optional uint64 fbAppId = 31;
+    optional bytes fbDeviceId = 32;
+    optional bool pull = 33;
+    optional bytes paddingBytes = 34;
+    optional int32 yearClass = 36;
+    optional int32 memClass = 37;
+    optional ClientPayload.IInteropData interopData = 38;
+    optional ClientPayload.TrafficAnonymization trafficAnonymization = 40;
+    optional bool lidDbMigrated = 41;
+    optional ClientPayload.AccountType accountType = 42;
+    optional int32 connectionSequenceInfo = 43;
+    optional bool paaLink = 44;
+    optional int32 preacksCount = 45;
+    optional int32 processingQueueSize = 46;
+    repeated string pairedPeripherals = 47;
+    enum ConnectType {
+        CELLULAR_UNKNOWN = 0;
+        WIFI_UNKNOWN = 1;
+        CELLULAR_EDGE = 100;
+        CELLULAR_IDEN = 101;
+        CELLULAR_UMTS = 102;
+        CELLULAR_EVDO = 103;
+        CELLULAR_GPRS = 104;
+        CELLULAR_HSDPA = 105;
+        CELLULAR_HSUPA = 106;
+        CELLULAR_HSPA = 107;
+        CELLULAR_CDMA = 108;
+        CELLULAR_1XRTT = 109;
+        CELLULAR_EHRPD = 110;
+        CELLULAR_LTE = 111;
+        CELLULAR_HSPAP = 112;
+    }
+    enum ConnectReason {
+        PUSH = 0;
+        USER_ACTIVATED = 1;
+        SCHEDULED = 2;
+        ERROR_RECONNECT = 3;
+        NETWORK_SWITCH = 4;
+        PING_RECONNECT = 5;
+        UNKNOWN = 6;
+    }
+    enum Product {
+        WHATSAPP = 0;
+        MESSENGER = 1;
+        INTEROP = 2;
+        INTEROP_MSGR = 3;
+        WHATSAPP_LID = 4;
+    }
+    enum IOSAppExtension {
+        SHARE_EXTENSION = 0;
+        SERVICE_EXTENSION = 1;
+        INTENTS_EXTENSION = 2;
+    }
+    enum TrafficAnonymization {
+        OFF = 0;
+        STANDARD = 1;
+    }
+    enum AccountType {
+        DEFAULT = 0;
+        GUEST = 1;
+    }
+}

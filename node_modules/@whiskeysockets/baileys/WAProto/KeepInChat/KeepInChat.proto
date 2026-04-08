@@ -1,0 +1,13 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message KeepInChat {
+    optional int32 keepType = 1;
+    optional int64 serverTimestamp = 2;
+    optional uint32 key = 3;
+    optional string deviceJid = 4;
+    optional int64 clientTimestampMs = 5;
+    optional int64 serverTimestampMs = 6;
+}

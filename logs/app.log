@@ -1,0 +1,622 @@
+
+[2026-03-28T12:59:21.614Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-03-28T12:59:52.106Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-03-28T13:00:11.559Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T13:00:11.560Z] [INFO] [❌ KEY] Invalid or missing session key.
+[2026-03-28T13:00:22.374Z] [INFO] [🔑 GEN] Key baru dibuat: 90515285c60794fc
+[2026-03-28T13:00:32.394Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '90515285c60794fc'
+[2026-03-28T13:00:32.399Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-03-28T13:00:58.325Z] [INFO] [📋 LIST] Request lihat semua user oleh key '90515285c60794fc'
+[2026-03-28T13:00:58.326Z] [INFO] [✅ LIST] Menampilkan 1 user
+[2026-03-28T13:04:43.794Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-03-28T13:13:07.042Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-03-28T13:14:43.248Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-03-28T13:23:39.813Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-03-28T14:30:36.561Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T14:30:36.583Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T14:30:43.945Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '90515285c60794fc'
+[2026-03-28T14:30:43.954Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-03-28T14:30:58.857Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-03-28T14:30:58.859Z] [INFO] admin
+[2026-03-28T14:31:16.858Z] [INFO] EKTLBPHG
+[2026-03-28T14:31:17.127Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-03-28T14:31:17.128Z] [INFO] admin
+[2026-03-28T14:31:51.418Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-03-28T14:31:59.092Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-03-28T14:32:20.168Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-03-28T14:32:20.170Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-03-28T14:32:20.171Z] [INFO] admin
+[2026-03-28T14:32:28.181Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '90515285c60794fc'
+[2026-03-28T14:32:28.181Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-03-28T14:32:38.891Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '90515285c60794fc'
+[2026-03-28T14:32:38.892Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-03-28T14:32:54.040Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-03-28T14:32:54.040Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-03-28T14:32:54.040Z] [INFO] admin
+[2026-03-28T14:33:57.415Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T14:33:57.418Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T14:36:06.237Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T14:36:06.239Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T14:36:17.369Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T14:36:17.376Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T14:37:50.116Z] [INFO] [📋 LIST] Request lihat semua user oleh key '90515285c60794fc'
+[2026-03-28T14:37:50.119Z] [INFO] [✅ LIST] Menampilkan 1 user
+[2026-03-28T14:40:36.895Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T14:40:38.419Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T14:40:51.392Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T14:40:51.401Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T14:58:45.889Z] [INFO] [🔑 GEN] Key baru dibuat: 4731d0262f09a248
+[2026-03-28T14:59:17.193Z] [INFO] [🖥️ VPS] Request VPS list oleh key '4731d0262f09a248'
+[2026-03-28T14:59:17.194Z] [INFO] [✅ VPS] Menampilkan 0 VPS untuk user admin
+[2026-03-28T14:59:32.014Z] [INFO] [📋 LIST] Request lihat semua user oleh key '4731d0262f09a248'
+[2026-03-28T14:59:32.015Z] [INFO] [✅ LIST] Menampilkan 1 user
+[2026-03-28T14:59:44.627Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '4731d0262f09a248'
+[2026-03-28T14:59:44.629Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-03-28T15:04:33.997Z] [INFO] [🔑 GEN] Key baru dibuat: de8a799f3756c9d8
+[2026-03-28T15:04:34.348Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T15:04:34.348Z] [INFO] [❌ INFO] User not found.
+[2026-03-28T15:05:10.545Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-03-28T15:05:10.548Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-03-28T15:05:10.549Z] [INFO] admin
+[2026-03-28T15:20:21.879Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T15:20:21.907Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T15:26:04.431Z] [INFO] [🔑 GEN] Key baru dibuat: ce0f87402f6461e6
+[2026-03-28T15:26:09.079Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'ce0f87402f6461e6'
+[2026-03-28T15:26:09.080Z] [INFO] [✅ LIST] Menampilkan 2 user
+[2026-03-28T15:26:50.968Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T15:26:52.121Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T15:27:22.284Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'ce0f87402f6461e6'
+[2026-03-28T15:27:22.286Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:27:29.159Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'ce0f87402f6461e6'
+[2026-03-28T15:27:29.160Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:27:37.999Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'ce0f87402f6461e6'
+[2026-03-28T15:27:38.000Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:27:50.110Z] [INFO] [➕ USERADD] Nanzz dengan role owner oleh key ce0f87402f6461e6
+[2026-03-28T15:27:50.111Z] [INFO] [❌ USERADD] owner (level 60) mencoba membuat owner (level 60), ditolak.
+[2026-03-28T15:28:21.896Z] [INFO] [🔑 GEN] Key baru dibuat: 87449ad1613658a1
+[2026-03-28T15:28:34.010Z] [INFO] [📋 LIST] Request lihat semua user oleh key '87449ad1613658a1'
+[2026-03-28T15:28:34.012Z] [INFO] [✅ LIST] Menampilkan 1 user (filtered by hierarchy)
+[2026-03-28T15:29:22.255Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T15:29:23.931Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T15:30:08.529Z] [INFO] [📋 LIST] Request lihat semua user oleh key '87449ad1613658a1'
+[2026-03-28T15:30:08.531Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:30:19.194Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T15:30:19.195Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T15:30:22.914Z] [INFO] [📋 LIST] Request lihat semua user oleh key '87449ad1613658a1'
+[2026-03-28T15:30:22.914Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:30:39.161Z] [INFO] [🔑 GEN] Key baru dibuat: 9e93d66934b294e2
+[2026-03-28T15:30:42.887Z] [INFO] [📋 LIST] Request lihat semua user oleh key '9e93d66934b294e2'
+[2026-03-28T15:30:42.888Z] [INFO] [✅ LIST] Menampilkan 1 user (filtered by hierarchy)
+[2026-03-28T15:32:05.269Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T15:32:06.539Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T15:32:55.424Z] [INFO] [📋 LIST] Request lihat semua user oleh key '9e93d66934b294e2'
+[2026-03-28T15:32:55.434Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:33:08.181Z] [INFO] [ℹ️ INFO] Fetching info for: admin2
+[2026-03-28T15:33:08.190Z] [INFO] [✅ INFO] Info dikirim untuk: admin2
+[2026-03-28T15:33:18.500Z] [INFO] [📋 LIST] Request lihat semua user oleh key '9e93d66934b294e2'
+[2026-03-28T15:33:18.501Z] [INFO] [✅ LIST] Menampilkan 0 user (filtered by hierarchy)
+[2026-03-28T15:33:36.757Z] [INFO] [🔑 GEN] Key baru dibuat: d5ef5c05dc78d1e2
+[2026-03-28T15:33:42.635Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'd5ef5c05dc78d1e2'
+[2026-03-28T15:33:42.638Z] [INFO] [✅ LIST] Menampilkan 1 user (filtered by hierarchy)
+[2026-03-28T15:33:58.783Z] [INFO] [➕ USERADD] nanzz dengan role owner oleh key d5ef5c05dc78d1e2
+[2026-03-28T15:33:58.785Z] [INFO] [✅ USERADD] User nanzz dengan role owner berhasil dibuat
+[2026-03-28T15:34:06.755Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'd5ef5c05dc78d1e2'
+[2026-03-28T15:34:06.756Z] [INFO] [✅ LIST] Menampilkan 2 user (filtered by hierarchy)
+[2026-03-28T15:39:25.135Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T15:39:25.146Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T15:39:29.504Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'd5ef5c05dc78d1e2'
+[2026-03-28T15:39:29.504Z] [INFO] [✅ LIST] Menampilkan 2 user (filtered by hierarchy)
+[2026-03-28T15:39:47.749Z] [INFO] [➕ USERADD] vanx dengan role owner oleh key d5ef5c05dc78d1e2
+[2026-03-28T15:39:47.750Z] [INFO] [✅ USERADD] User vanx dengan role owner berhasil dibuat
+[2026-03-28T15:55:10.547Z] [INFO] [🔑 GEN] Key baru dibuat: 4a48ee6bbba81ff3
+[2026-03-28T15:56:18.877Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T15:56:18.878Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T15:57:16.808Z] [INFO] [6288297563383] Connection closed. Status: 428
+[2026-03-28T15:57:21.630Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T17:23:59.225Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T17:24:00.679Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T17:36:34.643Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T17:36:36.868Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T17:36:44.184Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T17:36:44.186Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T17:50:02.902Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T17:50:04.600Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T17:51:14.697Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T17:51:16.757Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T17:51:40.478Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-03-28T17:51:40.480Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-03-28T18:10:11.743Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-03-28T18:10:13.036Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-03-28T18:10:14.571Z] [INFO] [🔑 GEN] Key baru dibuat: 31fcbb8042d5a10c
+[2026-03-28T18:10:24.538Z] [INFO] [📋 LIST] Request lihat semua user oleh key '31fcbb8042d5a10c'
+[2026-03-28T18:10:24.539Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-03-28T18:10:35.268Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-03-28T18:10:35.270Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-03-28T18:10:35.271Z] [INFO] admin
+[2026-03-28T18:10:36.899Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-03-28T18:10:36.900Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-03-28T18:10:36.901Z] [INFO] admin
+[2026-03-28T18:10:42.366Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '31fcbb8042d5a10c'
+[2026-03-28T18:10:42.376Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-03-28T18:10:53.097Z] [INFO] [TELEGRAM LOGIN] Initiate unified login for phone '6288294563383' by key '31fcbb8042d5a10c'
+[2026-03-28T18:10:55.438Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '0e7c74a4-3911-4343-86b5-f29afdbe5936' by key '31fcbb8042d5a10c'
+[2026-03-28T18:11:20.676Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-03-28T18:11:20.677Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-03-28T18:11:20.679Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-06T05:29:08.512Z] [INFO] [DEBUG] Ditemukan 2 subfolder member di 'permenmd'
+[2026-04-06T05:29:13.628Z] [INFO] [6288297563383] Connection closed. Status: 401
+[2026-04-06T05:29:13.629Z] [INFO] [6288297563383] Logged out.
+[2026-04-06T05:30:14.974Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-06T05:30:24.217Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-06T06:57:51.631Z] [INFO] [📱] Device login baru, override session untuk admin
+[2026-04-06T06:57:51.633Z] [INFO] [🔑 GEN] Key baru dibuat: dce8e5d8d743eda8
+[2026-04-06T06:57:59.599Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'dce8e5d8d743eda8'
+[2026-04-06T06:57:59.600Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-06T06:58:35.645Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-06T06:58:35.646Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-06T06:58:44.203Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-06T06:58:44.204Z] [INFO] [✅ CHAT AI] New session generated: 0f2049f6-9bda-4d21-9fe8-e2b99504d6d4 for user admin
+[2026-04-06T06:58:44.356Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-06T06:58:44.357Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-06T06:58:47.633Z] [INFO] [CHAT AI] Get chat history for session '0f2049f6-9bda-4d21-9fe8-e2b99504d6d4' by key 'dce8e5d8d743eda8'
+[2026-04-06T06:58:47.634Z] [INFO] [✅ CHAT AI] Retrieved chat history for session 0f2049f6-9bda-4d21-9fe8-e2b99504d6d4
+[2026-04-06T06:58:50.543Z] [INFO] [CHAT AI] Send message to session '0f2049f6-9bda-4d21-9fe8-e2b99504d6d4' by key 'dce8e5d8d743eda8'
+[2026-04-06T06:58:50.642Z] [INFO] [✅ CHAT AI] Message sent to session 0f2049f6-9bda-4d21-9fe8-e2b99504d6d4
+[2026-04-06T06:59:02.543Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-06T06:59:02.544Z] [INFO] admin
+[2026-04-06T06:59:15.620Z] [INFO] GQZ81CJP
+[2026-04-06T06:59:15.843Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-06T06:59:15.844Z] [INFO] admin
+[2026-04-06T06:59:54.962Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-06T07:00:02.635Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-06T07:00:09.667Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-06T07:00:09.668Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-06T07:00:09.669Z] [INFO] admin
+[2026-04-06T07:00:29.896Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:00:29.896Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-06T07:02:52.225Z] [INFO] [TELEGRAM LOGIN] Initiate unified login for phone '6282280439038' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:02:54.413Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:02:56.409Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:02:58.481Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:00.409Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:02.413Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:04.420Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:06.413Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:08.397Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:10.412Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:12.390Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:14.413Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:15.785Z] [INFO] [TELEGRAM LOGIN] Submit auth input for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:16.378Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '49242423-6309-4b90-b3bb-8df9dc4d28a6' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:16.538Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:16.538Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T07:03:36.434Z] [INFO] [TELEGRAM SESSION] Verify password for session '+6282280439038' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:36.534Z] [INFO] [✅ TELEGRAM SESSION] Password verification successful for +6282280439038
+[2026-04-06T07:03:36.729Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:03:36.730Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T07:05:45.393Z] [INFO] [TELEGRAM SESSIONS] Refresh sessions by key 'dce8e5d8d743eda8'
+[2026-04-06T07:05:45.437Z] [INFO] [✅ TELEGRAM SESSIONS] Refreshed sessions. Removed 0 inactive sessions.
+[2026-04-06T07:05:45.640Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:05:45.641Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T07:05:52.309Z] [INFO] [TELEGRAM SESSION] Verify password for session '+6282280439038' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:05:52.382Z] [INFO] [✅ TELEGRAM SESSION] Password verification successful for +6282280439038
+[2026-04-06T07:05:52.548Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:05:52.549Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T07:06:42.847Z] [INFO] [SPAM REPORT] Start spam report for target '@HoxtenXTeamall' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:42.975Z] [INFO] [✅ SPAM REPORT] Started spam report a3fba079-9531-4b91-b599-307e3313c0f9 for target @HoxtenXTeamall
+[2026-04-06T07:06:45.183Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:45.184Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:47.170Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:47.171Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:49.131Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:49.131Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:51.158Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:51.159Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:53.151Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:53.152Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:55.143Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:55.143Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:57.171Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:57.171Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:06:59.166Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:06:59.167Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:01.211Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:01.212Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:03.162Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:03.163Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:05.150Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:05.151Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:07.130Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:07.131Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:09.147Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:09.148Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:11.150Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:11.151Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:12.788Z] [INFO] [TELEGRAM SESSION] Verify password for session '+6282280439038' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:12.832Z] [INFO] [✅ TELEGRAM SESSION] Password verification successful for +6282280439038
+[2026-04-06T07:07:13.007Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:13.008Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T07:07:13.162Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:13.163Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:15.199Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:15.200Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:17.158Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:17.159Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:19.171Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:19.172Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:21.139Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:21.139Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:23.042Z] [INFO] [TELEGRAM SESSIONS] Refresh sessions by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:23.081Z] [INFO] [✅ TELEGRAM SESSIONS] Refreshed sessions. Removed 0 inactive sessions.
+[2026-04-06T07:07:23.147Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:23.148Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:23.250Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:23.251Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T07:07:25.144Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:25.144Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:27.151Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:27.151Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:29.151Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:29.151Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:31.154Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:31.154Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:33.182Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:33.182Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:07:35.168Z] [INFO] [SPAM REPORT] Get status for report 'a3fba079-9531-4b91-b599-307e3313c0f9' by key 'dce8e5d8d743eda8'
+[2026-04-06T07:07:35.168Z] [INFO] [✅ SPAM REPORT] Retrieved status for report a3fba079-9531-4b91-b599-307e3313c0f9
+[2026-04-06T07:08:34.479Z] [ERROR] Error reading Telegram session: Cannot read properties of undefined (reading 'replace')
+[2026-04-06T10:49:51.669Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-06T10:49:51.670Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-06T10:51:09.153Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'dce8e5d8d743eda8'
+[2026-04-06T10:51:09.153Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-06T10:51:15.919Z] [INFO] [🗑️ DELETE] Request hapus user 'admin2' oleh key 'dce8e5d8d743eda8'
+[2026-04-06T10:51:15.920Z] [INFO] [✅ DELETE] User berhasil dihapus: | {"username":"admin2","password":"admin2","role":"owner","expiredDate":"2027-01-22"}
+[2026-04-06T10:51:15.921Z] [INFO] [📝 ACTIVITY] admin: Delete Account
+[2026-04-06T10:51:27.575Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-06T10:51:27.576Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-06T10:51:34.101Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'dce8e5d8d743eda8'
+[2026-04-06T10:51:34.101Z] [INFO] [✅ LIST] Menampilkan 2 user (filtered by hierarchy)
+[2026-04-06T10:51:36.918Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-06T10:51:36.919Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-06T10:51:36.919Z] [INFO] admin
+[2026-04-06T19:34:24.497Z] [INFO] 🔄 Reconnecting 6288297563383 Because 428 Attempt 1/5
+[2026-04-06T19:34:32.107Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-06T20:36:28.212Z] [INFO] 🔄 Reconnecting 6288297563383 Because 503 Attempt 2/5
+[2026-04-06T20:36:35.449Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-06T21:33:01.841Z] [INFO] 🔄 Reconnecting 6288297563383 Because 503 Attempt 3/5
+[2026-04-06T21:33:09.037Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-06T23:18:06.538Z] [INFO] 🔄 Reconnecting 6288297563383 Because 428 Attempt 4/5
+[2026-04-07T01:21:29.071Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-07T01:21:29.072Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-07T01:21:40.216Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-07T01:21:40.217Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 1 sessions for user admin
+[2026-04-07T01:21:42.488Z] [INFO] [TELEGRAM SESSIONS] Delete session for phone ' 6282280439038' by key 'dce8e5d8d743eda8'
+[2026-04-07T01:21:42.489Z] [INFO] [✅ TELEGRAM SESSIONS] Deleted session for  6282280439038
+[2026-04-07T01:21:42.585Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-07T01:21:42.585Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-07T04:13:20.956Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-07T04:13:20.957Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-07T04:13:33.142Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-07T04:13:33.142Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-07T04:13:33.143Z] [INFO] admin
+[2026-04-07T04:13:43.889Z] [INFO] [📤 BUG] Send bug to 6288297563383 using key dce8e5d8d743eda8 - Bug: delay
+[2026-04-07T04:13:43.890Z] [INFO] admin Trigger Cooldown
+[2026-04-07T04:13:43.891Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6288297563383@s.whatsapp.net
+[2026-04-07T04:13:43.893Z] [ERROR] [❌ BUG ERROR] jid is not defined
+[2026-04-07T04:13:43.894Z] [INFO] [📝 ACTIVITY] admin: Failed Bug Attack
+[2026-04-07T04:14:08.025Z] [INFO] [📤 BUG] Send bug to 6288297563383 using key dce8e5d8d743eda8 - Bug: crash
+[2026-04-07T04:14:08.026Z] [INFO] admin Trigger Cooldown
+[2026-04-07T04:14:08.027Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6288297563383@s.whatsapp.net
+[2026-04-07T04:14:19.804Z] [ERROR] [❌ BUG ERROR] Connection Closed
+[2026-04-07T04:14:19.804Z] [INFO] [📝 ACTIVITY] admin: Failed Bug Attack
+[2026-04-07T04:14:49.935Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-07T04:14:49.936Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-07T04:14:49.937Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-07T04:14:50.041Z] [ERROR] [❌ CUSTOM BUG ERROR] Connection Closed
+[2026-04-07T04:14:50.041Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-07T10:53:16.650Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-07T10:53:16.651Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T00:27:56.502Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T00:27:56.503Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T01:01:02.895Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-08T01:01:04.551Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T01:07:51.243Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T01:07:51.244Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T01:07:58.795Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:07:58.796Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:08:01.743Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:08:01.744Z] [INFO] [✅ CHAT AI] New session generated: 7c8a8936-2d9c-436a-bde2-c4c8ff9cc58b for user admin
+[2026-04-08T01:08:01.894Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:08:01.895Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:08:06.906Z] [INFO] [CHAT AI] Send message to session '7c8a8936-2d9c-436a-bde2-c4c8ff9cc58b' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:08:07.405Z] [ERROR] [❌ CHAT AI] Error sending message: Request failed with status code 404
+[2026-04-08T01:08:36.567Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-08T01:08:37.648Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T01:13:26.593Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T01:13:26.595Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T01:13:31.581Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:31.582Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:33.876Z] [INFO] [CHAT AI] Delete chat history for session '0f2049f6-9bda-4d21-9fe8-e2b99504d6d4' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:33.877Z] [INFO] [✅ CHAT AI] Deleted chat history for session 0f2049f6-9bda-4d21-9fe8-e2b99504d6d4
+[2026-04-08T01:13:34.040Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:34.041Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:34.815Z] [INFO] [CHAT AI] Delete chat history for session '7c8a8936-2d9c-436a-bde2-c4c8ff9cc58b' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:34.816Z] [INFO] [✅ CHAT AI] Deleted chat history for session 7c8a8936-2d9c-436a-bde2-c4c8ff9cc58b
+[2026-04-08T01:13:34.972Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:34.972Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:35.779Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:35.781Z] [INFO] [✅ CHAT AI] New session generated: 2a20642a-809f-4d1b-b38d-805e36ace016 for user admin
+[2026-04-08T01:13:35.943Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:35.944Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:40.596Z] [INFO] [CHAT AI] Get chat history for session '2a20642a-809f-4d1b-b38d-805e36ace016' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:40.596Z] [INFO] [✅ CHAT AI] Retrieved chat history for session 2a20642a-809f-4d1b-b38d-805e36ace016
+[2026-04-08T01:13:43.512Z] [INFO] [CHAT AI] Delete chat history for session '2a20642a-809f-4d1b-b38d-805e36ace016' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:43.514Z] [INFO] [✅ CHAT AI] Deleted chat history for session 2a20642a-809f-4d1b-b38d-805e36ace016
+[2026-04-08T01:13:43.684Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:43.684Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:44.504Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:44.505Z] [INFO] [✅ CHAT AI] New session generated: f64e74f9-7983-4204-99a1-a60efb72b3d2 for user admin
+[2026-04-08T01:13:44.683Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:44.685Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:51.636Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:51.637Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:13:53.156Z] [INFO] [CHAT AI] Get chat history for session 'f64e74f9-7983-4204-99a1-a60efb72b3d2' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:13:53.157Z] [INFO] [✅ CHAT AI] Retrieved chat history for session f64e74f9-7983-4204-99a1-a60efb72b3d2
+[2026-04-08T01:14:01.064Z] [INFO] [CHAT AI] Send message to session 'f64e74f9-7983-4204-99a1-a60efb72b3d2' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:14:02.032Z] [ERROR] [❌ CHAT AI] Error sending message: Request failed with status code 404
+[2026-04-08T01:32:32.164Z] [INFO] [6288297563383] Connection closed. Status: 428
+[2026-04-08T01:32:36.175Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T01:47:14.191Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-08T01:47:15.756Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T01:47:16.907Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T01:47:16.908Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T01:47:21.394Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:47:21.395Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:10.624Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:10.625Z] [INFO] [✅ CHAT AI] New session generated: ebb1c208-5544-41f4-a744-e2155f57d8a2 for user admin
+[2026-04-08T01:48:10.783Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:10.783Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:11.995Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:11.995Z] [INFO] [✅ CHAT AI] New session generated: 5aadefaa-bc75-4c1d-a727-e0e4f24d6cb7 for user admin
+[2026-04-08T01:48:12.153Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:12.154Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:12.804Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:12.804Z] [INFO] [✅ CHAT AI] New session generated: b9863704-c464-4736-9561-f64a95bb4404 for user admin
+[2026-04-08T01:48:12.961Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:12.962Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:14.901Z] [INFO] [CHAT AI] Delete chat history for session 'b9863704-c464-4736-9561-f64a95bb4404' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:14.901Z] [INFO] [✅ CHAT AI] Deleted chat history for session b9863704-c464-4736-9561-f64a95bb4404
+[2026-04-08T01:48:15.062Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:15.063Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:15.679Z] [INFO] [CHAT AI] Delete chat history for session '5aadefaa-bc75-4c1d-a727-e0e4f24d6cb7' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:15.679Z] [INFO] [✅ CHAT AI] Deleted chat history for session 5aadefaa-bc75-4c1d-a727-e0e4f24d6cb7
+[2026-04-08T01:48:15.835Z] [INFO] [CHAT AI] Delete chat history for session '5aadefaa-bc75-4c1d-a727-e0e4f24d6cb7' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:15.835Z] [INFO] [❌ CHAT AI] Session 5aadefaa-bc75-4c1d-a727-e0e4f24d6cb7 not found
+[2026-04-08T01:48:15.837Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:15.837Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:16.414Z] [INFO] [CHAT AI] Delete chat history for session 'ebb1c208-5544-41f4-a744-e2155f57d8a2' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:16.414Z] [INFO] [✅ CHAT AI] Deleted chat history for session ebb1c208-5544-41f4-a744-e2155f57d8a2
+[2026-04-08T01:48:16.569Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:16.570Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:17.204Z] [INFO] [CHAT AI] Delete chat history for session 'f64e74f9-7983-4204-99a1-a60efb72b3d2' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:17.205Z] [INFO] [✅ CHAT AI] Deleted chat history for session f64e74f9-7983-4204-99a1-a60efb72b3d2
+[2026-04-08T01:48:17.358Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:17.358Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:18.161Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:18.161Z] [INFO] [✅ CHAT AI] New session generated: b6550be4-62e7-4e67-a775-2411fb0ceb54 for user admin
+[2026-04-08T01:48:18.325Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:18.326Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:28.654Z] [INFO] [CHAT AI] Get chat history for session 'b6550be4-62e7-4e67-a775-2411fb0ceb54' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:28.654Z] [INFO] [✅ CHAT AI] Retrieved chat history for session b6550be4-62e7-4e67-a775-2411fb0ceb54
+[2026-04-08T01:48:31.940Z] [INFO] [CHAT AI] Delete chat history for session 'b6550be4-62e7-4e67-a775-2411fb0ceb54' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:31.940Z] [INFO] [✅ CHAT AI] Deleted chat history for session b6550be4-62e7-4e67-a775-2411fb0ceb54
+[2026-04-08T01:48:32.113Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:32.114Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:33.184Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:33.185Z] [INFO] [✅ CHAT AI] New session generated: f66f190e-1287-45da-b4cb-7ac8e36b5051 for user admin
+[2026-04-08T01:48:33.337Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:48:33.337Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:48:58.405Z] [INFO] [CHAT AI] Send message to session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:02.171Z] [INFO] [✅ CHAT AI] Message sent to session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:49:02.358Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:02.359Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:49:04.723Z] [INFO] [CHAT AI] Get chat history for session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:04.723Z] [INFO] [✅ CHAT AI] Retrieved chat history for session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:49:06.623Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:06.623Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:49:07.917Z] [INFO] [CHAT AI] Get chat history for session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:07.917Z] [INFO] [✅ CHAT AI] Retrieved chat history for session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:49:10.389Z] [INFO] [CHAT AI] Send message to session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:13.213Z] [INFO] [✅ CHAT AI] Message sent to session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:49:13.378Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:13.379Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:49:16.984Z] [INFO] [CHAT AI] Send message to session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:20.626Z] [INFO] [✅ CHAT AI] Message sent to session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:49:20.791Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:49:20.792Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:50:34.023Z] [INFO] [CHAT AI] Get chat history for session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:50:34.023Z] [INFO] [✅ CHAT AI] Retrieved chat history for session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:50:45.344Z] [INFO] [CHAT AI] Send message to session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:50:51.344Z] [INFO] [✅ CHAT AI] Message sent to session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T01:50:55.493Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T01:50:55.494Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T01:51:32.542Z] [INFO] [CHAT AI] Get chat history for session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T01:51:32.543Z] [INFO] [✅ CHAT AI] Retrieved chat history for session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T02:08:59.844Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-08T02:09:01.102Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T02:09:36.928Z] [INFO] [CHAT AI] Delete chat history for session 'f66f190e-1287-45da-b4cb-7ac8e36b5051' by key 'dce8e5d8d743eda8'
+[2026-04-08T02:09:36.930Z] [INFO] [✅ CHAT AI] Deleted chat history for session f66f190e-1287-45da-b4cb-7ac8e36b5051
+[2026-04-08T02:09:37.098Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:09:37.099Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T02:09:41.432Z] [INFO] [CHAT AI] Generate new session by key 'dce8e5d8d743eda8'
+[2026-04-08T02:09:41.433Z] [INFO] [✅ CHAT AI] New session generated: 7806ec1a-886b-43cf-8909-a6ccdbd34e01 for user admin
+[2026-04-08T02:09:41.589Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:09:41.589Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T02:09:48.597Z] [INFO] [CHAT AI] Send message to session '7806ec1a-886b-43cf-8909-a6ccdbd34e01' by key 'dce8e5d8d743eda8'
+[2026-04-08T02:09:51.406Z] [INFO] [✅ CHAT AI] Message sent to session 7806ec1a-886b-43cf-8909-a6ccdbd34e01
+[2026-04-08T02:09:51.615Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:09:51.615Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T02:26:29.037Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T02:26:29.039Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T02:45:03.720Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T02:45:03.720Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T02:45:21.124Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'dce8e5d8d743eda8'
+[2026-04-08T02:45:21.125Z] [INFO] [✅ LIST] Menampilkan 2 user (filtered by hierarchy)
+[2026-04-08T02:45:24.942Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:45:24.943Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-08T02:45:40.067Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:45:40.067Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T02:45:42.052Z] [INFO] [CHAT AI] Get chat history for session '7806ec1a-886b-43cf-8909-a6ccdbd34e01' by key 'dce8e5d8d743eda8'
+[2026-04-08T02:45:42.053Z] [INFO] [✅ CHAT AI] Retrieved chat history for session 7806ec1a-886b-43cf-8909-a6ccdbd34e01
+[2026-04-08T02:45:46.911Z] [INFO] [CHAT AI] Send message to session '7806ec1a-886b-43cf-8909-a6ccdbd34e01' by key 'dce8e5d8d743eda8'
+[2026-04-08T02:45:50.460Z] [INFO] [✅ CHAT AI] Message sent to session 7806ec1a-886b-43cf-8909-a6ccdbd34e01
+[2026-04-08T02:45:50.669Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:45:50.670Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T02:46:07.479Z] [INFO] [CHAT AI] Send message to session '7806ec1a-886b-43cf-8909-a6ccdbd34e01' by key 'dce8e5d8d743eda8'
+[2026-04-08T02:46:11.834Z] [INFO] [✅ CHAT AI] Message sent to session 7806ec1a-886b-43cf-8909-a6ccdbd34e01
+[2026-04-08T02:46:12.008Z] [INFO] [CHAT AI] Get chat history list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:46:12.009Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T02:46:19.671Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-08T02:46:19.672Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-08T03:31:28.850Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T03:31:28.850Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T03:31:33.710Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-08T03:31:33.711Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-08T03:31:33.711Z] [INFO] admin
+[2026-04-08T03:31:45.433Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'dce8e5d8d743eda8'
+[2026-04-08T03:31:45.434Z] [INFO] [✅ LIST] Menampilkan 2 user (filtered by hierarchy)
+[2026-04-08T03:31:55.285Z] [INFO] [➕ USERADD] andyy dengan role owner oleh key dce8e5d8d743eda8
+[2026-04-08T03:31:55.285Z] [INFO] [✅ USERADD] User andyy dengan role owner berhasil dibuat
+[2026-04-08T03:32:00.365Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-08T03:32:00.366Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-08T03:32:00.366Z] [INFO] admin
+[2026-04-08T03:32:01.709Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'dce8e5d8d743eda8'
+[2026-04-08T03:32:01.710Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-08T04:38:53.567Z] [INFO] [6288297563383] Connection closed. Status: 428
+[2026-04-08T04:38:57.709Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T05:01:16.727Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T05:01:16.728Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T05:01:39.999Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'dce8e5d8d743eda8'
+[2026-04-08T05:01:40.000Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-08T05:01:42.589Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-08T05:01:42.589Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-08T05:01:42.590Z] [INFO] admin
+[2026-04-08T05:35:41.380Z] [INFO] [6288297563383] Connection closed. Status: 428
+[2026-04-08T05:35:45.484Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T05:51:56.720Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-08T05:51:58.492Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T05:52:02.874Z] [INFO] [🔑 GEN] Key baru dibuat: adf8bea08c6ac14c
+[2026-04-08T05:52:06.960Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:06.960Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-08T05:52:15.642Z] [INFO] [CHAT AI] Get chat history list by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:15.643Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T05:52:17.408Z] [INFO] [CHAT AI] Generate new session by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:17.409Z] [INFO] [✅ CHAT AI] New session generated: a2773180-9418-44b3-b957-ec93ee8044e0 for user admin
+[2026-04-08T05:52:17.562Z] [INFO] [CHAT AI] Get chat history list by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:17.563Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T05:52:23.567Z] [INFO] [CHAT AI] Send message to session 'a2773180-9418-44b3-b957-ec93ee8044e0' by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:25.976Z] [INFO] [✅ CHAT AI] Message sent to session a2773180-9418-44b3-b957-ec93ee8044e0
+[2026-04-08T05:52:26.152Z] [INFO] [CHAT AI] Get chat history list by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:26.153Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T05:52:36.766Z] [INFO] [CHAT AI] Send message to session 'a2773180-9418-44b3-b957-ec93ee8044e0' by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:40.250Z] [INFO] [✅ CHAT AI] Message sent to session a2773180-9418-44b3-b957-ec93ee8044e0
+[2026-04-08T05:52:40.457Z] [INFO] [CHAT AI] Get chat history list by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:40.457Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T05:52:47.394Z] [INFO] [CHAT AI] Get chat history for session 'a2773180-9418-44b3-b957-ec93ee8044e0' by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:47.395Z] [INFO] [✅ CHAT AI] Retrieved chat history for session a2773180-9418-44b3-b957-ec93ee8044e0
+[2026-04-08T05:52:49.292Z] [INFO] [CHAT AI] Get chat history list by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:49.292Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-08T05:52:50.802Z] [INFO] [CHAT AI] Get chat history for session 'a2773180-9418-44b3-b957-ec93ee8044e0' by key 'adf8bea08c6ac14c'
+[2026-04-08T05:52:50.802Z] [INFO] [✅ CHAT AI] Retrieved chat history for session a2773180-9418-44b3-b957-ec93ee8044e0
+[2026-04-08T05:53:06.123Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-08T05:53:07.273Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-08T05:54:47.162Z] [INFO] [SUBDOMAIN FINDER] Request subdomain finder for 'baworzz.my.id' by key 'adf8bea08c6ac14c'
+[2026-04-08T05:55:17.282Z] [ERROR] [❌ SUBDOMAIN FINDER] Error: Request failed with status code 500
+[2026-04-08T06:24:05.854Z] [INFO] [🔑 GEN] Key baru dibuat: d27774fb4009d2d5
+[2026-04-08T06:24:22.281Z] [INFO] [DEBUG] Folder permenmd/andyy tidak ditemukan
+[2026-04-08T06:24:22.281Z] [INFO] andyy
+[2026-04-08T06:24:29.683Z] [INFO] AAAAAAAA
+[2026-04-08T06:24:30.148Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder andyy
+[2026-04-08T06:24:30.149Z] [INFO] andyy
+[2026-04-08T06:25:01.672Z] [INFO] 🔄 Reconnecting 6285703974514...
+[2026-04-08T06:25:11.187Z] [INFO] ✅ Rewrote session to permenmd/andyy/6285703974514.json
+[2026-04-08T06:25:46.523Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder andyy
+[2026-04-08T06:25:46.524Z] [INFO] [DEBUG] Session aktif ditemukan: 6285703974514 (Business)
+[2026-04-08T06:25:46.524Z] [INFO] andyy
+[2026-04-08T06:26:48.731Z] [INFO] [SUBDOMAIN FINDER] Request subdomain finder for 'xnxx.com' by key 'd27774fb4009d2d5'
+[2026-04-08T06:27:12.003Z] [INFO] [✅ SUBDOMAIN FINDER] Subdomain finder successful for xnxx.com
+[2026-04-08T06:31:27.146Z] [INFO] [ℹ️ INFO] Fetching info for: andyy
+[2026-04-08T06:31:27.147Z] [INFO] [✅ INFO] Info dikirim untuk: andyy
+[2026-04-08T06:32:15.222Z] [INFO] [📤 BUG] Send bug to 6283141932547 using key d27774fb4009d2d5 - Bug: delay
+[2026-04-08T06:32:15.223Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:32:15.225Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6283141932547@s.whatsapp.net
+[2026-04-08T06:32:15.227Z] [ERROR] [❌ BUG ERROR] jid is not defined
+[2026-04-08T06:32:15.228Z] [INFO] [📝 ACTIVITY] andyy: Failed Bug Attack
+[2026-04-08T06:34:23.272Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder andyy
+[2026-04-08T06:34:23.273Z] [INFO] [DEBUG] Session aktif ditemukan: 6285703974514 (Business)
+[2026-04-08T06:34:23.274Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6283141932547@s.whatsapp.net using 6285703974514 (private)
+[2026-04-08T06:34:23.277Z] [ERROR] [❌ CUSTOM BUG ERROR] jid is not defined
+[2026-04-08T06:34:23.277Z] [INFO] [📝 ACTIVITY] andyy: Failed Custom Bug Attack
+[2026-04-08T06:35:06.050Z] [INFO] [📤 BUG] Send bug to 6285646331646 using key d27774fb4009d2d5 - Bug: spam
+[2026-04-08T06:35:06.051Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:35:06.052Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6285646331646@s.whatsapp.net
+[2026-04-08T06:35:06.065Z] [ERROR] [❌ BUG ERROR] No sessions
+[2026-04-08T06:35:06.066Z] [INFO] [📝 ACTIVITY] andyy: Failed Bug Attack
+[2026-04-08T06:35:35.071Z] [INFO] [📤 BUG] Send bug to 6285646331646 using key d27774fb4009d2d5 - Bug: bokep
+[2026-04-08T06:35:35.071Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:35:35.072Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6285646331646@s.whatsapp.net
+[2026-04-08T06:35:43.830Z] [ERROR] [❌ BUG ERROR] Ptcp is not defined
+[2026-04-08T06:35:43.831Z] [INFO] [📝 ACTIVITY] andyy: Failed Bug Attack
+[2026-04-08T06:37:13.022Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder andyy
+[2026-04-08T06:37:13.023Z] [INFO] [DEBUG] Session aktif ditemukan: 6285703974514 (Business)
+[2026-04-08T06:37:13.027Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6285175081173@s.whatsapp.net using 6285703974514 (private)
+[2026-04-08T06:37:13.031Z] [ERROR] [❌ CUSTOM BUG ERROR] jid is not defined
+[2026-04-08T06:37:13.032Z] [INFO] [📝 ACTIVITY] andyy: Failed Custom Bug Attack
+[2026-04-08T06:38:11.804Z] [INFO] [ℹ️ INFO] Fetching info for: andyy
+[2026-04-08T06:38:11.805Z] [INFO] [✅ INFO] Info dikirim untuk: andyy
+[2026-04-08T06:38:29.436Z] [INFO] [📤 BUG] Send bug to 6285703974514 using key d27774fb4009d2d5 - Bug: spam
+[2026-04-08T06:38:29.437Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:38:29.439Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6285703974514@s.whatsapp.net
+[2026-04-08T06:38:29.451Z] [ERROR] [❌ BUG ERROR] Cannot read properties of undefined (reading 'toString')
+[2026-04-08T06:38:29.451Z] [INFO] [📝 ACTIVITY] andyy: Failed Bug Attack
+[2026-04-08T06:39:01.692Z] [INFO] [📤 BUG] Send bug to 6285175081173 using key d27774fb4009d2d5 - Bug: ios
+[2026-04-08T06:39:01.693Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:39:01.694Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6285175081173@s.whatsapp.net
+[2026-04-08T06:40:09.639Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder andyy
+[2026-04-08T06:40:09.640Z] [INFO] [DEBUG] Session aktif ditemukan: 6285703974514 (Business)
+[2026-04-08T06:40:09.640Z] [INFO] andyy
+[2026-04-08T06:40:11.338Z] [INFO] [✅ BUG] Bug 'ios' terkirim ke 6285175081173
+[2026-04-08T06:40:11.340Z] [INFO] [📝 ACTIVITY] andyy: Bug Attack
+[2026-04-08T06:40:11.540Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder andyy
+[2026-04-08T06:40:11.541Z] [INFO] [DEBUG] Session aktif ditemukan: 6285703974514 (Business)
+[2026-04-08T06:40:11.541Z] [INFO] andyy
+[2026-04-08T06:40:29.100Z] [INFO] [📤 BUG] Send bug to 6283141932547 using key d27774fb4009d2d5 - Bug: ios
+[2026-04-08T06:40:29.101Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:40:29.102Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6283141932547@s.whatsapp.net
+[2026-04-08T06:41:00.531Z] [INFO] [📤 BUG] Send bug to 6285703974514 using key d27774fb4009d2d5 - Bug: bokep
+[2026-04-08T06:41:00.532Z] [INFO] andyy Trigger Cooldown
+[2026-04-08T06:41:00.535Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 6285703974514@s.whatsapp.net
+[2026-04-08T06:41:08.613Z] [ERROR] [❌ BUG ERROR] Ptcp is not defined
+[2026-04-08T06:41:08.614Z] [INFO] [📝 ACTIVITY] andyy: Failed Bug Attack
+[2026-04-08T06:41:27.876Z] [INFO] [✅ BUG] Bug 'ios' terkirim ke 6283141932547
+[2026-04-08T06:41:27.877Z] [INFO] [📝 ACTIVITY] andyy: Bug Attack
+[2026-04-08T07:24:22.457Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T07:24:22.458Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T07:24:52.196Z] [INFO] [SUBDOMAIN FINDER] Request subdomain finder for 'alwayscodex.my.id' by key 'adf8bea08c6ac14c'
+[2026-04-08T07:25:14.884Z] [INFO] [✅ SUBDOMAIN FINDER] Subdomain finder successful for alwayscodex.my.id
+[2026-04-08T07:32:25.484Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T07:32:25.486Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T07:32:33.124Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'adf8bea08c6ac14c'
+[2026-04-08T07:32:33.125Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-08T07:32:41.723Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'adf8bea08c6ac14c'
+[2026-04-08T07:32:41.724Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-08T07:32:54.775Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key 'adf8bea08c6ac14c'
+[2026-04-08T07:32:54.775Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-08T10:12:30.260Z] [INFO] 🔄 Reconnecting 6285703974514 Because 500 Attempt 1/5
+[2026-04-08T10:12:38.777Z] [INFO] ✅ Rewrote session to permenmd/andyy/6285703974514.json
+[2026-04-08T12:03:55.222Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-08T12:04:25.155Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-08T12:04:40.138Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-08T12:04:40.139Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-08T12:04:43.696Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'adf8bea08c6ac14c'
+[2026-04-08T12:04:43.696Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)

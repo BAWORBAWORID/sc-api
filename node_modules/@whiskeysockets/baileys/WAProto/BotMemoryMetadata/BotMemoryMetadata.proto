@@ -1,0 +1,10 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message BotMemoryMetadata {
+    repeated uint32 addedFacts = 1;
+    repeated uint32 removedFacts = 2;
+    optional string disclaimer = 3;
+}

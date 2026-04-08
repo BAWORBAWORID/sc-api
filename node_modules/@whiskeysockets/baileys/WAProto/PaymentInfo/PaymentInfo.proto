@@ -1,0 +1,38 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message PaymentInfo {
+    optional PaymentInfo.Currency currencyDeprecated = 1;
+    optional uint64 amount1000 = 2;
+    optional string receiverJid = 3;
+    optional PaymentInfo.Status status = 4;
+    optional uint64 transactionTimestamp = 5;
+    optional uint32 requestMessageKey = 6;
+    optional uint64 expiryTimestamp = 7;
+    optional bool futureproofed = 8;
+    optional string currency = 9;
+    optional PaymentInfo.TxnStatus txnStatus = 10;
+    optional bool useNoviFiatFormat = 11;
+    optional uint32 primaryAmount = 12;
+    optional uint32 exchangeAmount = 13;
+    enum Currency {
+        UNKNOWN_CURRENCY = 0;
+        INR = 1;
+    }
+    enum Status {
+        UNKNOWN_STATUS = 0;
+        PROCESSING = 1;
+        SENT = 2;
+        NEED_TO_ACCEPT = 3;
+        COMPLETE = 4;
+        COULD_NOT_COMPLETE = 5;
+        REFUNDED = 6;
+        EXPIRED = 7;
+        REJECTED = 8;
+        CANCELLED = 9;
+        WAITING_FOR_PAYER = 10;
+        WAITING = 11;
+    }
+}

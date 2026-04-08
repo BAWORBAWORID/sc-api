@@ -1,0 +1,10 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+enum MediaVisibility {
+    DEFAULT = 0;
+    OFF = 1;
+    ON = 2;
+}

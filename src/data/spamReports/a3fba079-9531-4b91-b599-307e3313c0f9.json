@@ -1,0 +1,22 @@
+{
+  "id": "a3fba079-9531-4b91-b599-307e3313c0f9",
+  "username": "admin",
+  "target": "@HoxtenXTeamall",
+  "targetInfo": {
+    "id": "2340287402",
+    "username": "@HoxtenXTeamall",
+    "name": "undefined"
+  },
+  "count": 50,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+6282280439038"
+  ],
+  "progress": 50,
+  "total": 50,
+  "status": "Checking target status...",
+  "startTime": "2026-04-06T07:06:42.973Z",
+  "completed": true,
+  "endTime": "2026-04-06T07:07:34.478Z"
+}

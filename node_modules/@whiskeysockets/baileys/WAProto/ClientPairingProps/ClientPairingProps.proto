@@ -1,0 +1,12 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message ClientPairingProps {
+    optional bool isChatDbLidMigrated = 1;
+    optional bool isSyncdPureLidSession = 2;
+    optional bool isSyncdSnapshotRecoveryEnabled = 3;
+    optional bool isHsThumbnailSyncEnabled = 4;
+    optional bytes subscriptionSyncPayload = 5;
+}

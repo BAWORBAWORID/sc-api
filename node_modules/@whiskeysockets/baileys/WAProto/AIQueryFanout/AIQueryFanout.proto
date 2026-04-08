@@ -1,0 +1,10 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message AIQueryFanout {
+    optional uint32 messageKey = 1;
+    optional uint32 message = 2;
+    optional int64 timestamp = 3;
+}

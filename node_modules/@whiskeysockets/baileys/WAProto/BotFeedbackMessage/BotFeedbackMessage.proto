@@ -1,0 +1,35 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message BotFeedbackMessage {
+    optional uint32 messageKey = 1;
+    optional BotFeedbackMessage.BotFeedbackKind kind = 2;
+    optional string text = 3;
+    optional uint64 kindNegative = 4;
+    optional uint64 kindPositive = 5;
+    optional BotFeedbackMessage.ReportKind kindReport = 6;
+    optional BotFeedbackMessage.ISideBySideSurveyMetadata sideBySideSurveyMetadata = 7;
+    enum BotFeedbackKind {
+        BOT_FEEDBACK_POSITIVE = 0;
+        BOT_FEEDBACK_NEGATIVE_GENERIC = 1;
+        BOT_FEEDBACK_NEGATIVE_HELPFUL = 2;
+        BOT_FEEDBACK_NEGATIVE_INTERESTING = 3;
+        BOT_FEEDBACK_NEGATIVE_ACCURATE = 4;
+        BOT_FEEDBACK_NEGATIVE_SAFE = 5;
+        BOT_FEEDBACK_NEGATIVE_OTHER = 6;
+        BOT_FEEDBACK_NEGATIVE_REFUSED = 7;
+        BOT_FEEDBACK_NEGATIVE_NOT_VISUALLY_APPEALING = 8;
+        BOT_FEEDBACK_NEGATIVE_NOT_RELEVANT_TO_TEXT = 9;
+        BOT_FEEDBACK_NEGATIVE_PERSONALIZED = 10;
+        BOT_FEEDBACK_NEGATIVE_CLARITY = 11;
+        BOT_FEEDBACK_NEGATIVE_DOESNT_LOOK_LIKE_THE_PERSON = 12;
+        BOT_FEEDBACK_NEGATIVE_HALLUCINATION_INTERNAL_ONLY = 13;
+        BOT_FEEDBACK_NEGATIVE = 14;
+    }
+    enum ReportKind {
+        NONE = 0;
+        GENERIC = 1;
+    }
+}

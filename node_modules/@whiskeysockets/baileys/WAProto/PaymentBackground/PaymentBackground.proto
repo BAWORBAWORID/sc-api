@@ -1,0 +1,21 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message PaymentBackground {
+    optional string id = 1;
+    optional uint64 fileLength = 2;
+    optional uint32 width = 3;
+    optional uint32 height = 4;
+    optional string mimetype = 5;
+    optional int32 placeholderArgb = 6;
+    optional int32 textArgb = 7;
+    optional int32 subtextArgb = 8;
+    optional PaymentBackground.IMediaData mediaData = 9;
+    optional PaymentBackground.Type type = 10;
+    enum Type {
+        UNKNOWN = 0;
+        DEFAULT = 1;
+    }
+}

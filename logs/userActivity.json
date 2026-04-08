@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1775630487877",
+    "username": "andyy",
+    "activity": "Bug Attack",
+    "details": {
+      "target": "6283141932547",
+      "bugType": "ios",
+      "success": true
+    },
+    "timestamp": "2026-04-08T06:41:27.877Z"
+  },
+  {
+    "id": "1775630468614",
+    "username": "andyy",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6285703974514",
+      "bugType": "bokep",
+      "error": "Ptcp is not defined"
+    },
+    "timestamp": "2026-04-08T06:41:08.614Z"
+  },
+  {
+    "id": "1775630411339",
+    "username": "andyy",
+    "activity": "Bug Attack",
+    "details": {
+      "target": "6285175081173",
+      "bugType": "ios",
+      "success": true
+    },
+    "timestamp": "2026-04-08T06:40:11.339Z"
+  },
+  {
+    "id": "1775630309451",
+    "username": "andyy",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6285703974514",
+      "bugType": "spam",
+      "error": "Cannot read properties of undefined (reading 'toString')"
+    },
+    "timestamp": "2026-04-08T06:38:29.451Z"
+  },
+  {
+    "id": "1775630233032",
+    "username": "andyy",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6285175081173",
+      "senderType": "private",
+      "bugs": [
+        "RaysDocuStunt",
+        "xCursedCrott",
+        "FriendBerulah"
+      ],
+      "quantity": 10,
+      "error": "jid is not defined",
+      "sessionUsed": "6285703974514"
+    },
+    "timestamp": "2026-04-08T06:37:13.032Z"
+  },
+  {
+    "id": "1775630143831",
+    "username": "andyy",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6285646331646",
+      "bugType": "bokep",
+      "error": "Ptcp is not defined"
+    },
+    "timestamp": "2026-04-08T06:35:43.831Z"
+  },
+  {
+    "id": "1775630106065",
+    "username": "andyy",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6285646331646",
+      "bugType": "spam",
+      "error": "No sessions"
+    },
+    "timestamp": "2026-04-08T06:35:06.065Z"
+  },
+  {
+    "id": "1775630063277",
+    "username": "andyy",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6283141932547",
+      "senderType": "private",
+      "bugs": [
+        "RaysDocuStunt",
+        "FriendBerulah"
+      ],
+      "quantity": 10,
+      "error": "jid is not defined",
+      "sessionUsed": "6285703974514"
+    },
+    "timestamp": "2026-04-08T06:34:23.277Z"
+  },
+  {
+    "id": "1775629935227",
+    "username": "andyy",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6283141932547",
+      "bugType": "delay",
+      "error": "jid is not defined"
+    },
+    "timestamp": "2026-04-08T06:32:15.227Z"
+  },
+  {
+    "id": "1775535290041",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "XMml",
+        "FreezePackk",
+        "RaysDocuStunt",
+        "xCursedCrawl",
+        "killeruimsg",
+        "xCursedCrott",
+        "XiosSejaya",
+        "fcinvis",
+        "fcinvisotax",
+        "FriendBerulah",
+        "permenCall",
+        "XCursedNFBlank"
+      ],
+      "quantity": 50,
+      "error": "Connection Closed",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-07T04:14:50.041Z"
+  },
+  {
+    "id": "1775535259804",
+    "username": "admin",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "bugType": "crash",
+      "error": "Connection Closed"
+    },
+    "timestamp": "2026-04-07T04:14:19.804Z"
+  },
+  {
+    "id": "1775535223894",
+    "username": "admin",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "bugType": "delay",
+      "error": "jid is not defined"
+    },
+    "timestamp": "2026-04-07T04:13:43.894Z"
+  },
+  {
+    "id": "1775472675921",
+    "username": "admin",
+    "activity": "Delete Account",
+    "details": {
+      "deletedUsername": "admin2",
+      "deletedRole": "owner",
+      "parent": "SYSTEM"
+    },
+    "timestamp": "2026-04-06T10:51:15.921Z"
+  }
+]

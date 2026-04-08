@@ -1,0 +1,9 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message AIRichResponseLatexMetadata {
+    optional string text = 1;
+    repeated AIRichResponseLatexMetadata.IAIRichResponseLatexExpression expressions = 2;
+}

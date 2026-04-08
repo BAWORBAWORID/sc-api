@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin",
+    "message": "hai",
+    "isAI": false,
+    "timestamp": "2026-04-08T05:52:23.568Z"
+  },
+  {
+    "username": "admin",
+    "message": "Hai! 😊 I'm Claude, your AI reading buddy. How can I assist you today? Do you need help with reading comprehension, finding a new book, or something else? 📚💡",
+    "isAI": true,
+    "timestamp": "2026-04-08T05:52:25.976Z"
+  },
+  {
+    "username": "admin",
+    "message": "gunakan bahasa indonesia",
+    "isAI": false,
+    "timestamp": "2026-04-08T05:52:36.766Z"
+  },
+  {
+    "username": "admin",
+    "message": "Halo! Saya Claude, asisten AI Anda. Bagaimana saya bisa membantu Anda hari ini? Apakah Anda memerlukan bantuan dengan membaca, mencari buku baru, atau sesuatu yang lain? 📚💡",
+    "isAI": true,
+    "timestamp": "2026-04-08T05:52:40.250Z"
+  }
+]

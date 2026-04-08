@@ -1,0 +1,20 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message SessionStructure {
+    optional uint32 sessionVersion = 1;
+    optional bytes localIdentityPublic = 2;
+    optional bytes remoteIdentityPublic = 3;
+    optional bytes rootKey = 4;
+    optional uint32 previousCounter = 5;
+    optional SessionStructure.IChain senderChain = 6;
+    repeated SessionStructure.IChain receiverChains = 7;
+    optional SessionStructure.IPendingKeyExchange pendingKeyExchange = 8;
+    optional SessionStructure.IPendingPreKey pendingPreKey = 9;
+    optional uint32 remoteRegistrationId = 10;
+    optional uint32 localRegistrationId = 11;
+    optional bool needsRefresh = 12;
+    optional bytes aliceBaseKey = 13;
+}

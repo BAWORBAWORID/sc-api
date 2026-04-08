@@ -1,0 +1,31 @@
+[
+  {
+    "username": "admin",
+    "password": "owner",
+    "role": "dev",
+    "expiredDate": "2027-01-22",
+    "lastSend": 1775535248026
+  },
+  {
+    "username": "nanzz",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2027-01-22",
+    "parent": "admin"
+  },
+  {
+    "username": "vanx",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2027-01-22",
+    "parent": "admin"
+  },
+  {
+    "username": "andyy",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2034-06-25",
+    "parent": "admin",
+    "lastSend": 1775630460532
+  }
+]

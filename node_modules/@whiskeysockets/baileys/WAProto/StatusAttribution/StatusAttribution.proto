@@ -1,0 +1,28 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message StatusAttribution {
+    optional StatusAttribution.Type type = 1;
+    optional string actionUrl = 2;
+    optional StatusAttribution.IStatusReshare statusReshare = 3;
+    optional StatusAttribution.IExternalShare externalShare = 4;
+    optional StatusAttribution.IMusic music = 5;
+    optional StatusAttribution.IGroupStatus groupStatus = 6;
+    optional StatusAttribution.IRLAttribution rlAttribution = 7;
+    optional StatusAttribution.IAiCreatedAttribution aiCreatedAttribution = 8;
+    enum Type {
+        UNKNOWN = 0;
+        RESHARE = 1;
+        EXTERNAL_SHARE = 2;
+        MUSIC = 3;
+        STATUS_MENTION = 4;
+        GROUP_STATUS = 5;
+        RL_ATTRIBUTION = 6;
+        AI_CREATED = 7;
+        LAYOUTS = 8;
+        NEWSLETTER_STATUS = 9;
+        STATUS_CLOSE_SHARING = 10;
+    }
+}

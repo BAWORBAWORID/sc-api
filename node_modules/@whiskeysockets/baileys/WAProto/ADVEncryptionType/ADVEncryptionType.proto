@@ -1,0 +1,9 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+enum ADVEncryptionType {
+    E2EE = 0;
+    HOSTED = 1;
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message MediaRetryNotification {
+    optional string stanzaId = 1;
+    optional string directPath = 2;
+    optional MediaRetryNotification.ResultType result = 3;
+    optional bytes messageSecret = 4;
+    enum ResultType {
+        GENERAL_ERROR = 0;
+        SUCCESS = 1;
+        NOT_FOUND = 2;
+        DECRYPTION_ERROR = 3;
+    }
+}

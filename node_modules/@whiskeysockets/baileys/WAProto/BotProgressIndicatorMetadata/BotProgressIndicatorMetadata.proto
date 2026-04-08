@@ -1,0 +1,10 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message BotProgressIndicatorMetadata {
+    optional string progressDescription = 1;
+    repeated BotProgressIndicatorMetadata.IBotPlanningStepMetadata stepsMetadata = 2;
+    optional int64 estimatedCompletionTime = 3;
+}

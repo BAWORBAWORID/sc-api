@@ -1,0 +1,10 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message AIHomeState {
+    optional int64 lastFetchTime = 1;
+    repeated AIHomeState.IAIHomeOption capabilityOptions = 2;
+    repeated AIHomeState.IAIHomeOption conversationOptions = 3;
+}

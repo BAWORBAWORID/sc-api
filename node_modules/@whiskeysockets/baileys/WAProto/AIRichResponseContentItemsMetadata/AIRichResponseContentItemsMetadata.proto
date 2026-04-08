@@ -1,0 +1,13 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message AIRichResponseContentItemsMetadata {
+    repeated AIRichResponseContentItemsMetadata.IAIRichResponseContentItemMetadata itemsMetadata = 1;
+    optional AIRichResponseContentItemsMetadata.ContentType contentType = 2;
+    enum ContentType {
+        DEFAULT = 0;
+        CAROUSEL = 1;
+    }
+}

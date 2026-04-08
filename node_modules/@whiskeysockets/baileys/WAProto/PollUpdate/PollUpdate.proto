@@ -1,0 +1,9 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message PollUpdate {
+    optional uint32 vote = 2;
+    optional int64 senderTimestampMs = 3;
+}

@@ -1,0 +1,10 @@
+module.exports = {
+  TOKEN: process.env.TELEGRAM_TOKEN || "7555521520:AAHBg1RJAshWTH0lkHUDg4t6pGZThDQe9Y8",
+  OWNER_ID: process.env.OWNER_ID || 5323386592,
+  ID_GROUP: [
+    -1003251528620
+  ],
+  ID_GROUP_UTAMA: [
+    -1003251528620
+  ]
+};

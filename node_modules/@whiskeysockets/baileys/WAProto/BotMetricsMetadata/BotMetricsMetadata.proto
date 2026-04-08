@@ -1,0 +1,10 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message BotMetricsMetadata {
+    optional string destinationId = 1;
+    optional int32 destinationEntryPoint = 2;
+    optional int32 threadOrigin = 3;
+}

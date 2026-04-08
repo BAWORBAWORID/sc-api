@@ -1,0 +1,11 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message BotMessageOrigin {
+    optional BotMessageOrigin.BotMessageOriginType type = 1;
+    enum BotMessageOriginType {
+        BOT_MESSAGE_ORIGIN_TYPE_AI_INITIATED = 0;
+    }
+}

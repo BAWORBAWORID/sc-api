@@ -1,0 +1,15 @@
+
+[2026-04-06T07:08:34.479Z] [ERROR] Error reading Telegram session: Cannot read properties of undefined (reading 'replace')
+[2026-04-07T04:13:43.893Z] [ERROR] [❌ BUG ERROR] jid is not defined
+[2026-04-07T04:14:19.804Z] [ERROR] [❌ BUG ERROR] Connection Closed
+[2026-04-07T04:14:50.041Z] [ERROR] [❌ CUSTOM BUG ERROR] Connection Closed
+[2026-04-08T01:08:07.405Z] [ERROR] [❌ CHAT AI] Error sending message: Request failed with status code 404
+[2026-04-08T01:14:02.032Z] [ERROR] [❌ CHAT AI] Error sending message: Request failed with status code 404
+[2026-04-08T05:55:17.282Z] [ERROR] [❌ SUBDOMAIN FINDER] Error: Request failed with status code 500
+[2026-04-08T06:32:15.227Z] [ERROR] [❌ BUG ERROR] jid is not defined
+[2026-04-08T06:34:23.277Z] [ERROR] [❌ CUSTOM BUG ERROR] jid is not defined
+[2026-04-08T06:35:06.065Z] [ERROR] [❌ BUG ERROR] No sessions
+[2026-04-08T06:35:43.830Z] [ERROR] [❌ BUG ERROR] Ptcp is not defined
+[2026-04-08T06:37:13.031Z] [ERROR] [❌ CUSTOM BUG ERROR] jid is not defined
+[2026-04-08T06:38:29.451Z] [ERROR] [❌ BUG ERROR] Cannot read properties of undefined (reading 'toString')
+[2026-04-08T06:41:08.613Z] [ERROR] [❌ BUG ERROR] Ptcp is not defined

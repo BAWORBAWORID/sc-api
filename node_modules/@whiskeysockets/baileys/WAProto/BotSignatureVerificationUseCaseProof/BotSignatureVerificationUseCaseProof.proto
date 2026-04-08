@@ -1,0 +1,16 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message BotSignatureVerificationUseCaseProof {
+    optional int32 version = 1;
+    optional BotSignatureVerificationUseCaseProof.BotSignatureUseCase useCase = 2;
+    optional bytes signature = 3;
+    repeated bytes certificateChain = 4;
+    enum BotSignatureUseCase {
+        UNSPECIFIED = 0;
+        WA_BOT_MSG = 1;
+        WA_TEE_BOT_MSG = 2;
+    }
+}

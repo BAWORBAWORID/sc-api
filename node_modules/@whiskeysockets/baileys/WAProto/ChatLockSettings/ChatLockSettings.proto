@@ -1,0 +1,9 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message ChatLockSettings {
+    optional bool hideLockedChats = 1;
+    optional uint32 secretCode = 2;
+}

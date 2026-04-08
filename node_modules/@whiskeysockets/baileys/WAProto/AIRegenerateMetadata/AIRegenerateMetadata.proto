@@ -1,0 +1,9 @@
+syntax = "proto3";
+package proto;
+
+/// WhatsApp Version: 2.3000.1036861941
+
+message AIRegenerateMetadata {
+    optional uint32 messageKey = 1;
+    optional int64 responseTimestampMs = 2;
+}
