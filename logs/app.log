@@ -620,3 +620,403 @@
 [2026-04-08T12:04:40.139Z] [INFO] [✅ INFO] Info dikirim untuk: admin
 [2026-04-08T12:04:43.696Z] [INFO] [📋 LIST] Request lihat semua user oleh key 'adf8bea08c6ac14c'
 [2026-04-08T12:04:43.696Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-11T03:26:23.291Z] [INFO] Folder session VIP dibuat.
+[2026-04-11T03:26:23.303Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-11T04:02:11.561Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T04:02:11.578Z] [INFO] [❌ INFO] User not found.
+[2026-04-11T04:02:17.467Z] [INFO] [🔑 GEN] Key baru dibuat: 538719950e8bb576
+[2026-04-11T04:02:26.141Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T04:02:26.144Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T04:30:00.540Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T04:30:00.545Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T04:30:16.115Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T04:30:16.116Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T04:30:24.499Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T04:30:24.500Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T04:30:47.609Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T04:30:47.609Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T04:30:52.879Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T04:30:52.880Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T04:30:57.861Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T04:30:57.861Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T04:31:17.999Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T04:31:18.001Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T04:36:50.406Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T04:36:50.407Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T04:37:14.938Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T04:37:14.941Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T04:37:17.021Z] [INFO] [CHAT AI] Delete chat history for session '0f2049f6-9bda-4d21-9fe8-e2b99504d6d4' by key '538719950e8bb576'
+[2026-04-11T04:37:17.024Z] [INFO] [✅ CHAT AI] Deleted chat history for session 0f2049f6-9bda-4d21-9fe8-e2b99504d6d4
+[2026-04-11T04:37:17.961Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T04:37:17.962Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T04:37:18.329Z] [INFO] [CHAT AI] Delete chat history for session '0f2049f6-9bda-4d21-9fe8-e2b99504d6d4' by key '538719950e8bb576'
+[2026-04-11T04:37:18.330Z] [INFO] [❌ CHAT AI] Session 0f2049f6-9bda-4d21-9fe8-e2b99504d6d4 not found
+[2026-04-11T04:37:19.485Z] [INFO] [CHAT AI] Delete chat history for session 'a2773180-9418-44b3-b957-ec93ee8044e0' by key '538719950e8bb576'
+[2026-04-11T04:37:19.486Z] [INFO] [✅ CHAT AI] Deleted chat history for session a2773180-9418-44b3-b957-ec93ee8044e0
+[2026-04-11T04:37:20.382Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T04:37:20.383Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T04:37:22.306Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T04:37:22.307Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T04:38:33.394Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T04:38:33.396Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T04:38:41.585Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T04:38:41.585Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:02:32.149Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:02:32.152Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:02:40.174Z] [INFO] [TELEGRAM LOGIN] Initiate unified login for phone '6288294563383' by key '538719950e8bb576'
+[2026-04-11T05:02:43.017Z] [INFO] [TELEGRAM LOGIN] Check status for loginId '91da27db-841a-4ba9-b58b-5b802e59ec6d' by key '538719950e8bb576'
+[2026-04-11T05:03:44.711Z] [INFO] [TELEGRAM LOGIN] Initiate unified login for phone '6282280439038' by key '538719950e8bb576'
+[2026-04-11T05:03:47.728Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:03:49.555Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:03:51.565Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:03:53.524Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:03:55.799Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:03:57.592Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:03:59.588Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:01.531Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:03.637Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:05.272Z] [INFO] [TELEGRAM LOGIN] Submit auth input for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:05.525Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:07.538Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:09.556Z] [INFO] [TELEGRAM LOGIN] Check status for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:09.722Z] [INFO] [TELEGRAM LOGIN] Submit auth input for loginId 'd699ec3f-d3f4-49e1-967e-e0e1d36ae268' by key '538719950e8bb576'
+[2026-04-11T05:04:10.919Z] [ERROR] [TELEGRAM LOGIN] Error: 400: PASSWORD_HASH_INVALID (caused by auth.CheckPassword)
+[2026-04-11T05:04:11.261Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:04:11.263Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:04:13.570Z] [INFO] [TELEGRAM SESSIONS] Refresh sessions by key '538719950e8bb576'
+[2026-04-11T05:04:13.570Z] [INFO] [✅ TELEGRAM SESSIONS] Refreshed sessions. Removed 0 inactive sessions.
+[2026-04-11T05:04:14.404Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:04:14.404Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:04:49.606Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T05:04:49.606Z] [INFO] admin
+[2026-04-11T05:04:56.749Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:04:56.749Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:05:00.431Z] [INFO] [TELEGRAM SESSIONS] Refresh sessions by key '538719950e8bb576'
+[2026-04-11T05:05:00.432Z] [INFO] [✅ TELEGRAM SESSIONS] Refreshed sessions. Removed 0 inactive sessions.
+[2026-04-11T05:05:01.583Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:05:01.584Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:05:06.730Z] [INFO] [TELEGRAM SESSIONS] Refresh sessions by key '538719950e8bb576'
+[2026-04-11T05:05:06.731Z] [INFO] [✅ TELEGRAM SESSIONS] Refreshed sessions. Removed 0 inactive sessions.
+[2026-04-11T05:05:07.619Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:05:07.620Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:05:25.516Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T05:05:25.517Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T05:05:28.938Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:05:28.938Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:07:50.231Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T05:07:50.236Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T05:11:25.103Z] [INFO] [TELEGRAM LOGIN] Cleaning up expired loginId: 91da27db-841a-4ba9-b58b-5b802e59ec6d
+[2026-04-11T05:11:25.105Z] [INFO] [TELEGRAM LOGIN] Cleaning up expired loginId: d699ec3f-d3f4-49e1-967e-e0e1d36ae268
+[2026-04-11T05:42:05.049Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T05:42:05.058Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T05:42:25.094Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T05:42:25.097Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T05:42:41.389Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T05:42:41.391Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T05:42:47.566Z] [INFO] [CHAT AI] Generate new session by key '538719950e8bb576'
+[2026-04-11T05:42:47.567Z] [INFO] [✅ CHAT AI] New session generated: 206e123c-2a10-4d54-8bfd-6d3d1add079a for user admin
+[2026-04-11T05:42:48.474Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T05:42:48.475Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T05:42:50.816Z] [INFO] [CHAT AI] Get chat history for session '206e123c-2a10-4d54-8bfd-6d3d1add079a' by key '538719950e8bb576'
+[2026-04-11T05:42:50.817Z] [INFO] [✅ CHAT AI] Retrieved chat history for session 206e123c-2a10-4d54-8bfd-6d3d1add079a
+[2026-04-11T05:42:53.738Z] [INFO] [CHAT AI] Send message to session '206e123c-2a10-4d54-8bfd-6d3d1add079a' by key '538719950e8bb576'
+[2026-04-11T05:42:56.020Z] [INFO] [✅ CHAT AI] Message sent to session 206e123c-2a10-4d54-8bfd-6d3d1add079a
+[2026-04-11T05:42:56.909Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T05:42:56.910Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T05:54:07.446Z] [INFO] Folder session VIP dibuat.
+[2026-04-11T05:54:07.448Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-11T06:39:02.277Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T06:39:02.372Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T06:39:07.291Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T06:39:07.294Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T06:39:11.124Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T06:39:11.124Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T06:39:14.742Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T06:39:14.742Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T06:39:26.067Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T06:39:26.067Z] [INFO] admin
+[2026-04-11T06:39:36.774Z] [INFO] AAAAAAAA
+[2026-04-11T06:39:37.889Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:39:37.889Z] [INFO] admin
+[2026-04-11T06:39:56.442Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:39:56.442Z] [INFO] admin
+[2026-04-11T06:39:57.348Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-11T06:39:57.931Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:39:57.931Z] [INFO] admin
+[2026-04-11T06:39:59.451Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:39:59.451Z] [INFO] admin
+[2026-04-11T06:40:00.688Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:40:00.689Z] [INFO] admin
+[2026-04-11T06:40:02.766Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:40:02.769Z] [INFO] admin
+[2026-04-11T06:40:06.670Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T06:40:06.671Z] [INFO] admin
+[2026-04-11T06:40:07.357Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T06:40:09.576Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T06:40:09.577Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T06:40:09.578Z] [INFO] admin
+[2026-04-11T06:48:07.378Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T06:48:07.380Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T06:48:10.402Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T06:48:10.402Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T07:52:54.995Z] [INFO] 🔄 Reconnecting 6288297563383 Because 408 Attempt 1/5
+[2026-04-11T07:53:03.340Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T07:59:22.001Z] [INFO] 🔄 Reconnecting 6288297563383 Because 408 Attempt 2/5
+[2026-04-11T07:59:29.270Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T08:02:26.302Z] [INFO] Folder session VIP dibuat.
+[2026-04-11T08:02:26.304Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-11T08:41:22.978Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T08:41:22.987Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T08:41:40.738Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T08:41:40.740Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T08:41:56.621Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T08:41:56.622Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T08:41:58.191Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T08:41:58.191Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T08:42:00.585Z] [INFO] [CHAT AI] Get chat history for session '206e123c-2a10-4d54-8bfd-6d3d1add079a' by key '538719950e8bb576'
+[2026-04-11T08:42:00.586Z] [INFO] [✅ CHAT AI] Retrieved chat history for session 206e123c-2a10-4d54-8bfd-6d3d1add079a
+[2026-04-11T08:42:04.781Z] [INFO] [CHAT AI] Send message to session '206e123c-2a10-4d54-8bfd-6d3d1add079a' by key '538719950e8bb576'
+[2026-04-11T08:42:06.879Z] [INFO] [✅ CHAT AI] Message sent to session 206e123c-2a10-4d54-8bfd-6d3d1add079a
+[2026-04-11T08:42:07.854Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T08:42:07.855Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T08:42:13.615Z] [INFO] [CHAT AI] Delete chat history for session '206e123c-2a10-4d54-8bfd-6d3d1add079a' by key '538719950e8bb576'
+[2026-04-11T08:42:13.616Z] [INFO] [✅ CHAT AI] Deleted chat history for session 206e123c-2a10-4d54-8bfd-6d3d1add079a
+[2026-04-11T08:42:14.874Z] [INFO] [CHAT AI] Get chat history list by key '538719950e8bb576'
+[2026-04-11T08:42:14.875Z] [INFO] [✅ CHAT AI] Retrieved chat history list for user admin
+[2026-04-11T10:50:33.131Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T10:50:33.151Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T10:50:45.542Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T10:50:45.544Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T10:50:51.892Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T10:50:51.893Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T10:50:53.858Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T10:50:53.859Z] [INFO] admin
+[2026-04-11T10:51:06.060Z] [INFO] [📋 LIST] Request lihat semua user oleh key '538719950e8bb576'
+[2026-04-11T10:51:06.060Z] [INFO] [✅ LIST] Menampilkan 3 user (filtered by hierarchy)
+[2026-04-11T10:51:17.977Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T10:51:17.977Z] [INFO] admin
+[2026-04-11T10:51:36.646Z] [INFO] AAAAAAAA
+[2026-04-11T10:51:37.595Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T10:51:37.595Z] [INFO] admin
+[2026-04-11T10:51:50.873Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-11T10:51:58.034Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T10:51:58.035Z] [INFO] admin
+[2026-04-11T10:51:59.882Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T10:51:59.882Z] [INFO] admin
+[2026-04-11T10:52:00.773Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T10:52:03.373Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T10:52:03.374Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T10:52:03.374Z] [INFO] admin
+[2026-04-11T10:52:12.522Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T10:52:12.522Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T11:34:56.924Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T11:34:56.928Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T11:35:10.838Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T11:35:10.839Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T11:35:10.839Z] [INFO] admin
+[2026-04-11T11:39:50.570Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T11:39:50.570Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T11:52:43.535Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T11:52:43.538Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T11:54:31.445Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T11:54:31.446Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T14:00:12.769Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T14:00:12.842Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T14:00:24.874Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T14:00:24.877Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T14:00:39.562Z] [INFO] [🛠️ EDIT] Tambah masa aktif admin +50000 hari oleh key 538719950e8bb576
+[2026-04-11T14:00:39.563Z] [INFO] [✅ EDIT] Masa aktif admin diperbarui ke 2163-12-15
+[2026-04-11T14:00:39.566Z] [INFO] [📝 ACTIVITY] admin: Edit User
+[2026-04-11T14:00:41.728Z] [INFO] [🛠️ EDIT] Tambah masa aktif admin +50000 hari oleh key 538719950e8bb576
+[2026-04-11T14:00:41.729Z] [INFO] [✅ EDIT] Masa aktif admin diperbarui ke 2300-11-07
+[2026-04-11T14:00:41.730Z] [INFO] [📝 ACTIVITY] admin: Edit User
+[2026-04-11T14:00:43.731Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T14:00:43.753Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T14:00:56.341Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T14:00:56.341Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T14:01:01.338Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T14:01:01.340Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T14:01:01.340Z] [INFO] admin
+[2026-04-11T14:53:03.347Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T14:53:03.349Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T20:10:35.931Z] [INFO] Folder session VIP dibuat.
+[2026-04-11T20:10:35.942Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-11T20:11:11.600Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-11T20:11:18.459Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T20:11:18.469Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T20:11:33.959Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:11:33.960Z] [INFO] admin
+[2026-04-11T20:11:49.575Z] [INFO] AAAAAAAA
+[2026-04-11T20:11:50.611Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:11:50.611Z] [INFO] admin
+[2026-04-11T20:12:13.828Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-11T20:12:17.234Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:12:17.235Z] [INFO] admin
+[2026-04-11T20:12:21.655Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:12:21.657Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:12:21.657Z] [INFO] admin
+[2026-04-11T20:12:23.192Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:12:31.594Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-11T20:12:31.595Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-11T20:13:01.744Z] [INFO] [📤 BUG] Send bug to 6288297563383 using key 538719950e8bb576 - Bug: fcinvis
+[2026-04-11T20:13:01.745Z] [INFO] admin Trigger Cooldown
+[2026-04-11T20:13:01.749Z] [WARN] [❌ BUG] Tidak ada session aktif untuk user admin
+[2026-04-11T20:13:01.751Z] [INFO] [📝 ACTIVITY] admin: Failed Bug Attack - No Session
+[2026-04-11T20:13:32.663Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-11T20:14:10.850Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:14:31.042Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:14:31.043Z] [INFO] admin
+[2026-04-11T20:14:40.094Z] [INFO] ✅ Session saved to permenmd/admin/6288297563383.json
+[2026-04-11T20:14:59.961Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:14:59.962Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:14:59.963Z] [INFO] admin
+[2026-04-11T20:15:16.032Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:15:16.033Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:15:16.036Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:15:16.036Z] [ERROR] [❌ CUSTOM BUG ERROR] bugFunction is not a function
+[2026-04-11T20:15:16.038Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-11T20:15:37.681Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:15:37.682Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:15:37.684Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:15:38.161Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-11T20:15:38.168Z] [ERROR] [❌ CUSTOM BUG ERROR] Connection Closed
+[2026-04-11T20:15:38.170Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-11T20:15:40.675Z] [INFO] ✅ Session saved to permenmd/admin/6288297563383.json
+[2026-04-11T20:15:41.568Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-11T20:15:44.590Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:15:44.901Z] [INFO] 🔄 Reconnecting 6288297563383 Because 440 Attempt 1/5
+[2026-04-11T20:15:48.065Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:15:48.388Z] [INFO] 🔄 Reconnecting 6288297563383 Because 440 Attempt 1/5
+[2026-04-11T20:15:51.846Z] [INFO] 🔄 Reconnecting 6288297563383 Because 440 Attempt 2/5
+[2026-04-11T20:15:51.848Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:15:55.389Z] [INFO] 🔄 Reconnecting 6288297563383 Because 440 Attempt 2/5
+[2026-04-11T20:15:55.514Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:15:58.558Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:15:58.772Z] [INFO] 🔄 Reconnecting 6288297563383 Because 440 Attempt 3/5
+[2026-04-11T20:21:16.640Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-11T20:21:21.777Z] [INFO] [6288297563383] Connection closed. Status: 401
+[2026-04-11T20:21:21.778Z] [INFO] [6288297563383] Logged out.
+[2026-04-11T20:21:32.855Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T20:21:32.870Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T20:43:18.679Z] [INFO] [DEBUG] Ditemukan 0 subfolder member di 'permenmd'
+[2026-04-11T20:43:34.993Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T20:43:34.995Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T20:43:36.089Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T20:43:36.090Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T20:43:40.951Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T20:43:40.951Z] [INFO] admin
+[2026-04-11T20:43:42.581Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T20:43:42.582Z] [INFO] admin
+[2026-04-11T20:43:45.692Z] [INFO] [DEBUG] Folder permenmd/admin tidak ditemukan
+[2026-04-11T20:43:45.692Z] [INFO] admin
+[2026-04-11T20:43:55.783Z] [INFO] AAAAAAAA
+[2026-04-11T20:43:57.676Z] [INFO] [DEBUG] Ditemukan 0 file JSON di folder admin
+[2026-04-11T20:43:57.677Z] [INFO] admin
+[2026-04-11T20:44:26.951Z] [INFO] 🔄 Reconnecting 6288297563383...
+[2026-04-11T20:44:35.648Z] [INFO] ✅ Rewrote session to permenmd/admin/6288297563383.json
+[2026-04-11T20:44:53.126Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:44:53.126Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:44:53.127Z] [INFO] admin
+[2026-04-11T20:45:10.513Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-11T20:45:11.668Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-11T20:45:17.746Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:45:17.747Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:45:17.748Z] [INFO] admin
+[2026-04-11T20:45:53.479Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:45:53.480Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:45:53.481Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:45:53.546Z] [ERROR] [❌ CUSTOM BUG ERROR] Cannot read properties of undefined (reading 'toString')
+[2026-04-11T20:45:53.547Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-11T20:47:54.529Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-11T20:47:56.061Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-11T20:48:04.445Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:48:04.446Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:48:04.451Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:48:43.993Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-11T20:48:45.076Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-11T20:49:39.409Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:49:39.412Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:49:39.421Z] [INFO] [📤 CUSTOM BUG] Starting attack on 62895340737549@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:49:39.519Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
+[2026-04-11T20:49:39.531Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-11T20:49:53.488Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-11T20:49:54.970Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-11T20:50:02.542Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:50:02.548Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:50:02.617Z] [INFO] [📤 CUSTOM BUG] Starting attack on 62895340737549@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:50:02.818Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
+[2026-04-11T20:50:02.820Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-11T20:50:15.685Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-11T20:50:15.689Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-11T20:50:43.163Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-11T20:50:43.163Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-11T20:50:43.165Z] [INFO] [📤 CUSTOM BUG] Starting attack on 62895340737549@s.whatsapp.net using 6288297563383 (private)
+[2026-04-11T20:50:43.219Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
+[2026-04-11T20:50:43.220Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-11T20:51:11.067Z] [INFO] [📤 BUG] Send bug to 62895340737549 using key 538719950e8bb576 - Bug: delays
+[2026-04-11T20:51:11.069Z] [INFO] admin Trigger Cooldown
+[2026-04-11T20:51:11.071Z] [INFO] [📤 BUG] Menggunakan session untuk mengirim bug ke 62895340737549@s.whatsapp.net
+[2026-04-11T20:51:11.098Z] [ERROR] [❌ BUG ERROR] No sessions
+[2026-04-11T20:51:11.099Z] [INFO] [📝 ACTIVITY] admin: Failed Bug Attack
+[2026-04-12T06:10:24.930Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T06:10:25.231Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-12T06:10:25.247Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-12T06:10:26.499Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T06:10:33.342Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-12T06:10:33.345Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-12T06:10:37.381Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T06:10:37.391Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T06:10:37.392Z] [INFO] admin
+[2026-04-12T07:26:31.755Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:26:33.442Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:27:04.785Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:27:06.238Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:27:10.185Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-12T07:27:10.187Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-12T07:27:15.240Z] [INFO] [TELEGRAM SESSIONS] Get sessions list by key '538719950e8bb576'
+[2026-04-12T07:27:15.241Z] [INFO] [✅ TELEGRAM SESSIONS] Retrieved 0 sessions for user admin
+[2026-04-12T07:27:17.646Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:27:17.646Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:27:17.647Z] [INFO] admin
+[2026-04-12T07:27:44.736Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:27:44.737Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:27:44.739Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-12T07:27:46.338Z] [INFO] [✅ CUSTOM BUG] Attack on 6288297563383@s.whatsapp.net completed.
+[2026-04-12T07:27:46.339Z] [INFO] [📝 ACTIVITY] admin: Custom Bug Attack
+[2026-04-12T07:28:17.789Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:28:17.789Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:28:17.791Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-12T07:28:57.503Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:28:58.624Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:44:43.147Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:44:44.481Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:44:49.914Z] [INFO] [ℹ️ INFO] Fetching info for: admin
+[2026-04-12T07:44:49.916Z] [INFO] [✅ INFO] Info dikirim untuk: admin
+[2026-04-12T07:45:23.932Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:45:23.933Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:45:23.935Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-12T07:46:05.738Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:46:05.739Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:46:17.026Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:46:17.027Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:46:17.028Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-12T07:46:53.941Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:46:55.183Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:47:01.983Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:47:01.984Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:47:02.005Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-12T07:47:22.948Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:47:24.443Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:47:41.001Z] [INFO] [DEBUG] Ditemukan 1 file JSON di folder admin
+[2026-04-12T07:47:41.001Z] [INFO] [DEBUG] Session aktif ditemukan: 6288297563383 (Messenger)
+[2026-04-12T07:47:41.026Z] [INFO] [📤 CUSTOM BUG] Starting attack on 6288297563383@s.whatsapp.net using 6288297563383 (private)
+[2026-04-12T07:48:00.623Z] [ERROR] [❌ CUSTOM BUG ERROR] retail
+[2026-04-12T07:48:00.626Z] [INFO] [📝 ACTIVITY] admin: Failed Custom Bug Attack
+[2026-04-12T07:54:37.418Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:54:38.853Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:55:01.521Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:55:02.957Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:56:02.770Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:56:03.439Z] [INFO] [6288297563383] Connected. Type: Messenger
+[2026-04-12T07:56:20.294Z] [INFO] [DEBUG] Ditemukan 1 subfolder member di 'permenmd'
+[2026-04-12T07:56:21.137Z] [INFO] [6288297563383] Connected. Type: Messenger

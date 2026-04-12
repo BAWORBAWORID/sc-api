@@ -1,5 +1,187 @@
 [
   {
+    "id": "1775980080625",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "crashui",
+        "delayx",
+        "blackscreen",
+        "freezeclick",
+        "uno",
+        "pay",
+        "xvar",
+        "calllog",
+        "invisiblespam"
+      ],
+      "quantity": 200,
+      "error": "retail",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-12T07:48:00.625Z"
+  },
+  {
+    "id": "1775978866339",
+    "username": "admin",
+    "activity": "Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "delays"
+      ],
+      "quantity": 5,
+      "delay": 100,
+      "sessionUsed": "6288297563383",
+      "success": true
+    },
+    "timestamp": "2026-04-12T07:27:46.339Z"
+  },
+  {
+    "id": "1775940671099",
+    "username": "admin",
+    "activity": "Failed Bug Attack",
+    "details": {
+      "target": "62895340737549",
+      "bugType": "delays",
+      "error": "No sessions"
+    },
+    "timestamp": "2026-04-11T20:51:11.099Z"
+  },
+  {
+    "id": "1775940643220",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "62895340737549",
+      "senderType": "private",
+      "bugs": [
+        "delays"
+      ],
+      "quantity": 100,
+      "error": "No sessions",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-11T20:50:43.220Z"
+  },
+  {
+    "id": "1775940602819",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "62895340737549",
+      "senderType": "private",
+      "bugs": [
+        "delays"
+      ],
+      "quantity": 100,
+      "error": "No sessions",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-11T20:50:02.819Z"
+  },
+  {
+    "id": "1775940579531",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "62895340737549",
+      "senderType": "private",
+      "bugs": [
+        "delays"
+      ],
+      "quantity": 100,
+      "error": "No sessions",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-11T20:49:39.531Z"
+  },
+  {
+    "id": "1775940353547",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "delays"
+      ],
+      "quantity": 100,
+      "error": "Cannot read properties of undefined (reading 'toString')",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-11T20:45:53.547Z"
+  },
+  {
+    "id": "1775938538170",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "fcinvis"
+      ],
+      "quantity": 5,
+      "error": "Connection Closed",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-11T20:15:38.170Z"
+  },
+  {
+    "id": "1775938516037",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "delay"
+      ],
+      "quantity": 5,
+      "error": "bugFunction is not a function",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-11T20:15:16.037Z"
+  },
+  {
+    "id": "1775938381750",
+    "username": "admin",
+    "activity": "Failed Bug Attack - No Session",
+    "details": {
+      "target": "6288297563383",
+      "bugType": "fcinvis"
+    },
+    "timestamp": "2026-04-11T20:13:01.750Z"
+  },
+  {
+    "id": "1775916041730",
+    "username": "admin",
+    "activity": "Edit User",
+    "details": {
+      "targetUsername": "admin",
+      "addDays": "50000",
+      "newExpiryDate": "2300-11-07",
+      "parent": "SYSTEM"
+    },
+    "timestamp": "2026-04-11T14:00:41.730Z"
+  },
+  {
+    "id": "1775916039566",
+    "username": "admin",
+    "activity": "Edit User",
+    "details": {
+      "targetUsername": "admin",
+      "addDays": "50000",
+      "newExpiryDate": "2163-12-15",
+      "parent": "SYSTEM"
+    },
+    "timestamp": "2026-04-11T14:00:39.566Z"
+  },
+  {
     "id": "1775630487877",
     "username": "andyy",
     "activity": "Bug Attack",

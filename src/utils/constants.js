@@ -3,26 +3,28 @@ module.exports = {
   WS_PORT: process.env.WS_PORT || 3000,
   // WhatsApp bug types
   BUGS: [
-    { bug_id: "delay", bug_name: "DELAY INVISIBLE" },
-    { bug_id: "spam", bug_name: "DELAY X BULDO" },
-    { bug_id: "crash", bug_name: "CRASH ANDROID" },
-    { bug_id: "bokep", bug_name: "CRASH X UI" },
-    { bug_id: "ios", bug_name: "CRASH IOS" }
+    { bug_id: "crashui", bug_name: "CRASH UI" },
+    { bug_id: "delayx", bug_name: "DELAY X" },
+    { bug_id: "blackscreen", bug_name: "BLACK SCREEN" },
+    { bug_id: "freezeclick", bug_name: "FREEZE CLICK" },
+    { bug_id: "uno", bug_name: "UNO CRASH" },
+    { bug_id: "pay", bug_name: "PAY CRASH" },
+    { bug_id: "xvar", bug_name: "XVAR CRASH" },
+    { bug_id: "calllog", bug_name: "CALL LOG CRASH" },
+    { bug_id: "invisiblespam", bug_name: "INVISIBLE SPAM" },
+    { bug_id: "all", bug_name: "ALL BUGS COMBO" }
   ],
-    
+
   payload: [
-    { bug_id: "XMml", bug_name: "CRASH ANDROID" },
-    { bug_id: "FreezePackk", bug_name: "FREEZE CLICK" },
-    { bug_id: "killeruimsg", bug_name: "KILLER UI" },
-    { bug_id: "RaysDocuStunt", bug_name: "DELAY INVISIBLE" },
-    { bug_id: "xCursedCrawl", bug_name: "DELAY INVISIBLE 2" },
-    { bug_id: "xCursedCrott", bug_name: "DELAY INVISIBLE 3" },
-    { bug_id: "XiosSejaya", bug_name: "CRASH IOS" },
-    { bug_id: "fcinvis", bug_name: "CRASH INVISIBLE (NOT ALL DEVICE)" },
-    { bug_id: "fcinvisotax", bug_name: "CRASH CALL" },
-    { bug_id: "FriendBerulah", bug_name: "FC 1 MSG" },
-    { bug_id: "permenCall", bug_name: "SPAM TELPON" },
-    { bug_id: "XCursedNFBlank", bug_name: "CRASH" }
+    { bug_id: "crashui", bug_name: "CRASH UI" },
+    { bug_id: "delayx", bug_name: "DELAY X" },
+    { bug_id: "blackscreen", bug_name: "BLACK SCREEN" },
+    { bug_id: "freezeclick", bug_name: "FREEZE CLICK" },
+    { bug_id: "uno", bug_name: "UNO CRASH" },
+    { bug_id: "pay", bug_name: "PAY CRASH" },
+    { bug_id: "xvar", bug_name: "XVAR CRASH" },
+    { bug_id: "calllog", bug_name: "CALL LOG CRASH" },
+    { bug_id: "invisiblespam", bug_name: "INVISIBLE SPAM" }
   ],
     
   DDOS: [
@@ -39,7 +41,7 @@ module.exports = {
     {
       image: "https://a.top4top.io/p_3696nya4z1.jpg",
       title: "PCN CRASHER",
-      desc: "Premium Crash Tools Official"
+      desc: "PCN Crash Tools Official"
     }
   ],
   // Role cooldowns (in seconds) - for bug features

@@ -13,3 +13,12 @@
 [2026-04-08T06:37:13.031Z] [ERROR] [❌ CUSTOM BUG ERROR] jid is not defined
 [2026-04-08T06:38:29.451Z] [ERROR] [❌ BUG ERROR] Cannot read properties of undefined (reading 'toString')
 [2026-04-08T06:41:08.613Z] [ERROR] [❌ BUG ERROR] Ptcp is not defined
+[2026-04-11T05:04:10.919Z] [ERROR] [TELEGRAM LOGIN] Error: 400: PASSWORD_HASH_INVALID (caused by auth.CheckPassword)
+[2026-04-11T20:15:16.036Z] [ERROR] [❌ CUSTOM BUG ERROR] bugFunction is not a function
+[2026-04-11T20:15:38.168Z] [ERROR] [❌ CUSTOM BUG ERROR] Connection Closed
+[2026-04-11T20:45:53.546Z] [ERROR] [❌ CUSTOM BUG ERROR] Cannot read properties of undefined (reading 'toString')
+[2026-04-11T20:49:39.519Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
+[2026-04-11T20:50:02.818Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
+[2026-04-11T20:50:43.219Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
+[2026-04-11T20:51:11.098Z] [ERROR] [❌ BUG ERROR] No sessions
+[2026-04-12T07:48:00.623Z] [ERROR] [❌ CUSTOM BUG ERROR] retail

