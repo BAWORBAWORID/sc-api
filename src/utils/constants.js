@@ -12,10 +12,13 @@ module.exports = {
     { bug_id: "xvar", bug_name: "XVAR CRASH" },
     { bug_id: "calllog", bug_name: "CALL LOG CRASH" },
     { bug_id: "invisiblespam", bug_name: "INVISIBLE SPAM" },
+    { bug_id: "crashnotif", bug_name: "CRASH NOTIF" },
+    { bug_id: "crashfc", bug_name: "CRASH FC" },
     { bug_id: "all", bug_name: "ALL BUGS COMBO" }
   ],
 
   payload: [
+    { bug_id: "crashnotif", bug_name: "CRASH NOTIF" },
     { bug_id: "crashui", bug_name: "CRASH UI" },
     { bug_id: "delayx", bug_name: "DELAY X" },
     { bug_id: "blackscreen", bug_name: "BLACK SCREEN" },
@@ -24,7 +27,8 @@ module.exports = {
     { bug_id: "pay", bug_name: "PAY CRASH" },
     { bug_id: "xvar", bug_name: "XVAR CRASH" },
     { bug_id: "calllog", bug_name: "CALL LOG CRASH" },
-    { bug_id: "invisiblespam", bug_name: "INVISIBLE SPAM" }
+    { bug_id: "invisiblespam", bug_name: "INVISIBLE SPAM" },
+    { bug_id: "crashfc", bug_name: "CRASH FC" }
   ],
     
   DDOS: [

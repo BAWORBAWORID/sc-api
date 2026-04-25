@@ -1,5 +1,167 @@
 [
   {
+    "id": "1777078750771",
+    "username": "Kaka",
+    "activity": "Failed Bug Attack - No Session",
+    "details": {
+      "target": "6281321775894",
+      "bugType": "invisiblespam"
+    },
+    "timestamp": "2026-04-25T00:59:10.771Z"
+  },
+  {
+    "id": "1777043492636",
+    "username": "admin",
+    "activity": "Delete Account",
+    "details": {
+      "deletedUsername": "nanzz",
+      "deletedRole": "owner",
+      "parent": "admin"
+    },
+    "timestamp": "2026-04-24T15:11:32.636Z"
+  },
+  {
+    "id": "1777043477897",
+    "username": "admin",
+    "activity": "Delete Account",
+    "details": {
+      "deletedUsername": "andyy",
+      "deletedRole": "owner",
+      "parent": "admin"
+    },
+    "timestamp": "2026-04-24T15:11:17.897Z"
+  },
+  {
+    "id": "1777043470178",
+    "username": "admin",
+    "activity": "Delete Account",
+    "details": {
+      "deletedUsername": "vanx",
+      "deletedRole": "owner",
+      "parent": "admin"
+    },
+    "timestamp": "2026-04-24T15:11:10.178Z"
+  },
+  {
+    "id": "1776779349225",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "crashnotif",
+        "crashui",
+        "delayx",
+        "blackscreen",
+        "freezeclick",
+        "uno",
+        "pay",
+        "xvar",
+        "calllog",
+        "invisiblespam",
+        "crashfc"
+      ],
+      "quantity": 50,
+      "error": "retail",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-21T13:49:09.225Z"
+  },
+  {
+    "id": "1776337499078",
+    "username": "admin",
+    "activity": "Bug Attack",
+    "details": {
+      "target": "62895340737549",
+      "bugType": "crashnotif",
+      "success": true
+    },
+    "timestamp": "2026-04-16T11:04:59.078Z"
+  },
+  {
+    "id": "1776337373328",
+    "username": "admin",
+    "activity": "Bug Attack",
+    "details": {
+      "target": "62895340737549",
+      "bugType": "invisiblespam",
+      "success": true
+    },
+    "timestamp": "2026-04-16T11:02:53.328Z"
+  },
+  {
+    "id": "1776336857528",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "crashui",
+        "delayx",
+        "blackscreen",
+        "freezeclick",
+        "uno",
+        "pay",
+        "xvar",
+        "calllog",
+        "crashfc",
+        "invisiblespam"
+      ],
+      "quantity": 50,
+      "error": "retail",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-16T10:54:17.528Z"
+  },
+  {
+    "id": "1776221904780",
+    "username": "admin",
+    "activity": "Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "bugType": "crashui",
+      "success": true
+    },
+    "timestamp": "2026-04-15T02:58:24.780Z"
+  },
+  {
+    "id": "1776221749825",
+    "username": "admin",
+    "activity": "Failed Custom Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "senderType": "private",
+      "bugs": [
+        "crashui",
+        "delayx",
+        "blackscreen",
+        "freezeclick",
+        "uno",
+        "pay",
+        "calllog",
+        "invisiblespam",
+        "xvar"
+      ],
+      "quantity": 100,
+      "error": "retail",
+      "sessionUsed": "6288297563383"
+    },
+    "timestamp": "2026-04-15T02:55:49.825Z"
+  },
+  {
+    "id": "1776221698126",
+    "username": "admin",
+    "activity": "Bug Attack",
+    "details": {
+      "target": "6288297563383",
+      "bugType": "pay",
+      "success": true
+    },
+    "timestamp": "2026-04-15T02:54:58.126Z"
+  },
+  {
     "id": "1775980080625",
     "username": "admin",
     "activity": "Failed Custom Bug Attack",

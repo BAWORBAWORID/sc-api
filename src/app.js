@@ -38,7 +38,7 @@ app.use('/api/whatsapp', authMiddleware, whatsappRoutes);
 app.use('/api/vps', authMiddleware, vpsRoutes);
 app.use('/api/tools', authMiddleware, toolsRoutes);
 app.use('/api/telegram', authMiddleware, telegramRoutes);
-app.use('/suxrat', suxratRoutes);
+app.use('/devicerat', suxratRoutes);
 
 // Health check
 app.get('/ping', (req, res) => res.send('pong'));

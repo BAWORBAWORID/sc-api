@@ -4,28 +4,14 @@
     "password": "owner",
     "role": "dev",
     "expiredDate": "2300-11-07",
-    "lastSend": 1775940671068
+    "lastSend": 1776337373324
   },
   {
-    "username": "nanzz",
-    "password": "1",
+    "username": "Kaka",
+    "password": "80",
     "role": "owner",
-    "expiredDate": "2027-01-22",
-    "parent": "admin"
-  },
-  {
-    "username": "vanx",
-    "password": "1",
-    "role": "owner",
-    "expiredDate": "2027-01-22",
-    "parent": "admin"
-  },
-  {
-    "username": "andyy",
-    "password": "1",
-    "role": "owner",
-    "expiredDate": "2034-06-25",
+    "expiredDate": "2034-07-11",
     "parent": "admin",
-    "lastSend": 1775630460532
+    "lastSend": 1777078750766
   }
 ]

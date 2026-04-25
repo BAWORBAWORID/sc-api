@@ -35,22 +35,4 @@ router.get('/chat/review', ToolsController.reviewHistoryAtIndex);
 // ChatAI - Reset Session
 router.get('/chat/reset', ToolsController.resetSession);
 
-// Telegram Login - Unified (GET with query params)
-router.get('/telegram/login', ToolsController.initiateUnifiedTelegramLogin);
-router.get('/telegram/auth', ToolsController.submitTelegramAuth);
-router.get('/telegram/status', ToolsController.checkLoginStatus);
-
-// Telegram Sessions
-router.get('/telegram/sessions', ToolsController.getTelegramSessions);
-router.get('/telegram/remove-ses', ToolsController.removeTeleSes);
-router.get('/telegram/refresh-sessions', ToolsController.refreshTelegramSessions);
-
-// Telegram Session Password
-router.post('/telegram/verify-session-password', ToolsController.verifySessionPassword);
-
-// Spam Report
-router.post('/telegram/spam-report', ToolsController.startSpamReport);
-router.get('/telegram/report-status', ToolsController.getSpamReportStatus);
-router.post('/telegram/send-report', ToolsController.sendReportToTelegram);
-
 module.exports = router;

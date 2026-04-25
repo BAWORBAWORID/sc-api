@@ -22,3 +22,10 @@
 [2026-04-11T20:50:43.219Z] [ERROR] [❌ CUSTOM BUG ERROR] No sessions
 [2026-04-11T20:51:11.098Z] [ERROR] [❌ BUG ERROR] No sessions
 [2026-04-12T07:48:00.623Z] [ERROR] [❌ CUSTOM BUG ERROR] retail
+[2026-04-15T02:55:49.824Z] [ERROR] [❌ CUSTOM BUG ERROR] retail
+[2026-04-16T10:54:17.526Z] [ERROR] [❌ CUSTOM BUG ERROR] retail
+[2026-04-21T13:49:09.222Z] [ERROR] [❌ CUSTOM BUG ERROR] retail
+[2026-04-23T01:39:56.587Z] [ERROR] [❌ CHAT AI] Invalid response from AI API: Request failed with status code 404
+[2026-04-23T01:40:02.296Z] [ERROR] [❌ CHAT AI] Invalid response from AI API: Request failed with status code 404
+[2026-04-23T14:00:21.355Z] [ERROR] [❌ CHAT AI] Invalid response from AI API: Request failed with status code 404
+[2026-04-24T16:24:12.519Z] [ERROR] [❌ CHAT AI] Invalid response from AI API: Request failed with status code 404
